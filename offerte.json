@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T17:03+02:00",
+ "updated": "2026-10-07T17:37+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -55,6 +55,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0F66TFJY3",
+   "name": "CMF Watch 3 Pro – Smartwatch con Display AMOLED da 1,43\", 13 giorni di autonomia",
+   "price": 64.95,
+   "list_price": 99.0,
+   "discount": 34,
+   "cat": "wearable",
+   "cat_label": "⌚ Smartwatch",
+   "tag": "",
+   "deal": "tempo",
+   "prime": true,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61UJfBkQ0xL._AC_SL1010_.jpg",
+   "link": "https://www.amazon.it/dp/B0F66TFJY3?tag=offerteloraes-21",
+   "ts": "2026-10-07T17:37+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0GQMJ8QQT",
    "name": "Bambu Lab A1 Mini Stampante 3D+Luce LED, Montaggio 20 Min per Principianti",
