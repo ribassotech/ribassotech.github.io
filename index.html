@@ -58,6 +58,14 @@
     border: 1px solid var(--line); border-radius: 999px; padding: 8px 14px; font-size: 13px; font-weight: 600;
   }
   .tg-link b { color: var(--orange); font-weight: 600; }
+  .social { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+  .social a {
+    display: inline-flex; align-items: center; gap: 6px; text-decoration: none; color: var(--text);
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px;
+    padding: 7px 12px; font-size: 12.5px; font-weight: 600;
+  }
+  .social a.main { background: var(--orange); border-color: var(--orange); color: #111; }
+  .social a:focus-visible { outline: 2px solid var(--orange); outline-offset: 2px; }
 
   /* barra filtri */
   .bar {
@@ -165,7 +173,15 @@
     </div>
     <p class="tagline">Offerte tech Amazon controllate sullo storico dei prezzi: niente finti sconti. Ogni offerta resta qui per 24 ore.</p>
     <div class="updated" id="updated">Caricamento…</div>
-    <a class="tg-link" id="tgLink" href="https://t.me/ribasso_tech" target="_blank" rel="noopener">✈️ Offerte in tempo reale su <b>Telegram</b></a>
+    <!-- I nostri canali: per cambiare un indirizzo basta modificare il link qui sotto -->
+    <nav class="social" aria-label="Seguici">
+      <a class="main" href="https://t.me/ribasso_tech" target="_blank" rel="noopener">✈️ Telegram</a>
+      <a href="https://whatsapp.com/channel/0029Vb8Npm989inhfqBbIJ1v" target="_blank" rel="noopener">💬 WhatsApp</a>
+      <a href="https://www.instagram.com/ribasso_tech/" target="_blank" rel="noopener">📸 Instagram</a>
+      <a href="https://www.facebook.com/1306742859196519" target="_blank" rel="noopener">📘 Facebook</a>
+      <a href="https://www.tiktok.com/@ribassotech" target="_blank" rel="noopener">🎵 TikTok</a>
+      <a href="https://t.me/ribassoprezzi_bot" target="_blank" rel="noopener">🔔 Avvisi di prezzo</a>
+    </nav>
   </header>
 
   <div class="bar">
@@ -188,8 +204,15 @@
     se acquisti, a te non costa nulla in più.<br>
     I prezzi sono quelli rilevati all'ora indicata e possono cambiare in qualsiasi momento: fa fede il prezzo mostrato su
     Amazon al momento dell'acquisto.<br>
-    <a href="https://t.me/ribasso_tech" target="_blank" rel="noopener">Canale Telegram</a> ·
-    <a href="https://t.me/ribassoprezzi_bot" target="_blank" rel="noopener">Bot avvisi di prezzo</a>
+    <span class="social-foot">
+      <a href="https://t.me/ribasso_tech" target="_blank" rel="noopener">Telegram</a> ·
+      <a href="https://whatsapp.com/channel/0029Vb8Npm989inhfqBbIJ1v" target="_blank" rel="noopener">WhatsApp</a> ·
+      <a href="https://www.instagram.com/ribasso_tech/" target="_blank" rel="noopener">Instagram</a> ·
+      <a href="https://www.facebook.com/1306742859196519" target="_blank" rel="noopener">Facebook</a> ·
+      <a href="https://www.tiktok.com/@ribassotech" target="_blank" rel="noopener">TikTok</a> ·
+      <a href="https://t.me/ribassoprezzi_bot" target="_blank" rel="noopener">Bot avvisi di prezzo</a> ·
+      <a href="https://t.me/offerteloraesp32" target="_blank" rel="noopener">Canale LoRa &amp; ESP32</a>
+    </span>
   </footer>
 </div>
 
@@ -292,7 +315,16 @@
     var a = e.target.closest('a.cta');
     if (a) openLink(a.getAttribute('data-link'), e);
   });
-  $('tgLink').addEventListener('click', function (e) { openLink(this.href, e); });
+  // dentro Telegram: i link t.me restano in Telegram, gli altri si aprono nel browser/app esterna
+  document.querySelectorAll('.social a, .social-foot a').forEach(function (a) {
+    a.addEventListener('click', function (e) {
+      if (!inTelegram) return;
+      e.preventDefault();
+      try {
+        if (a.href.indexOf('https://t.me/') === 0) tg.openTelegramLink(a.href); else tg.openLink(a.href);
+      } catch (err) { window.open(a.href, '_blank'); }
+    });
+  });
 
   // categoria dall'indirizzo: ribassotech.github.io/#casa apre direttamente "Casa smart"
   var hash = decodeURIComponent(location.hash.replace('#', ''));
