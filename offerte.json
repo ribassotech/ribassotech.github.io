@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T20:57+02:00",
+ "updated": "2026-10-07T22:39+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -55,6 +55,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0GM15CN7G",
+   "name": "Videocamera esterna 2K+ Blink con Videocamera Mini 2K+ Blink (ultimo modello), Bianco",
+   "price": 107.99,
+   "list_price": 354.98,
+   "discount": 70,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/41lXO0VXFwL._SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0GM15CN7G?tag=offerteloraes-21",
+   "ts": "2026-10-07T22:39+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0DB899XLS",
    "name": "Trust Yuno Mouse Ergonomico Senza Filo, Mouse Verticale Ricaricabile, Nero",
