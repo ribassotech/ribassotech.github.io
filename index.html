@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ribasso Tech – Offerte tech Amazon</title>
+<meta name="description" content="Le offerte tech Amazon controllate sullo storico prezzi: smartphone, PC, audio, casa smart e altro. Aggiornate ogni giorno.">
+<meta name="theme-color" content="#0e0e11">
+<meta property="og:title" content="Ribasso Tech – Offerte tech Amazon">
+<meta property="og:description" content="Offerte vere, controllate sullo storico prezzi. Sfoglia per categoria.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<style>
+  :root {
+    --bg: #0e0e11;
+    --surface: #1a1a20;
+    --surface-2: #24242c;
+    --line: #2e2e38;
+    --text: #f4f4f6;
+    --muted: #9a9fab;
+    --orange: #ff8a00;
+    --orange-2: #ffb020;
+    --red: #ff483c;
+    --green: #3cd278;
+    --radius: 18px;
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background:
+      radial-gradient(900px 500px at 110% -10%, rgba(255,138,0,.16), transparent 60%),
+      radial-gradient(700px 400px at -20% 0%, rgba(255,138,0,.08), transparent 60%),
+      var(--bg);
+    color: var(--text);
+    font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    min-height: 100vh;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 0 16px; }
+
+  /* intestazione */
+  header { padding: 22px 0 8px; }
+  .brand { display: flex; align-items: center; gap: 12px; }
+  .logo {
+    width: 44px; height: 44px; border-radius: 12px; background: var(--orange);
+    display: grid; place-items: center; flex: none;
+  }
+  .logo svg { width: 26px; height: 26px; }
+  .brand h1 { margin: 0; font-size: 22px; letter-spacing: .5px; font-weight: 700; }
+  .brand h1 span { color: var(--orange); }
+  .tagline { margin: 10px 0 0; color: var(--muted); font-size: 14px; line-height: 1.5; }
+  .updated { color: var(--muted); font-size: 12px; margin-top: 6px; }
+  .tg-link {
+    display: inline-flex; align-items: center; gap: 8px; margin-top: 12px;
+    background: var(--surface-2); color: var(--text); text-decoration: none;
+    border: 1px solid var(--line); border-radius: 999px; padding: 8px 14px; font-size: 13px; font-weight: 600;
+  }
+  .tg-link b { color: var(--orange); font-weight: 600; }
+
+  /* barra filtri */
+  .bar {
+    position: sticky; top: 0; z-index: 5; padding: 12px 0 10px;
+    background: linear-gradient(var(--bg) 75%, rgba(14,14,17,0));
+  }
+  .chips {
+    display: flex; gap: 8px; overflow-x: auto; padding-bottom: 6px; scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+  }
+  .chips::-webkit-scrollbar { display: none; }
+  .chip {
+    flex: none; border: 1px solid var(--line); background: var(--surface); color: var(--text);
+    border-radius: 999px; padding: 8px 14px; font: 600 13px Poppins, sans-serif; cursor: pointer;
+    white-space: nowrap;
+  }
+  .chip small { color: var(--muted); font-weight: 500; margin-left: 4px; }
+  .chip[aria-pressed="true"] { background: var(--orange); border-color: var(--orange); color: #111; }
+  .chip[aria-pressed="true"] small { color: #3a2400; }
+  .tools { display: flex; gap: 8px; margin-top: 8px; }
+  .search {
+    flex: 1; min-width: 0; background: var(--surface); border: 1px solid var(--line); color: var(--text);
+    border-radius: 12px; padding: 10px 12px; font: 500 14px Poppins, sans-serif;
+  }
+  .search::placeholder { color: var(--muted); }
+  select {
+    background: var(--surface); border: 1px solid var(--line); color: var(--text); border-radius: 12px;
+    padding: 10px; font: 500 13px Poppins, sans-serif; max-width: 46%;
+  }
+  .search:focus, select:focus, .chip:focus-visible, .cta:focus-visible { outline: 2px solid var(--orange); outline-offset: 2px; }
+
+  /* griglia */
+  .grid {
+    display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    padding: 6px 0 28px;
+  }
+  .card {
+    background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+    overflow: hidden; display: flex; flex-direction: column;
+  }
+  .ph { position: relative; background: #fff; aspect-ratio: 4 / 3; display: grid; place-items: center; }
+  .ph img { max-width: 86%; max-height: 86%; object-fit: contain; }
+  .ph .noimg { color: #b3b3b3; font-size: 40px; }
+  .disc {
+    position: absolute; top: 10px; right: 10px; background: var(--red); color: #fff;
+    font-weight: 700; font-size: 15px; border-radius: 999px; padding: 4px 10px;
+  }
+  .label {
+    position: absolute; top: 10px; left: 10px; font-weight: 700; font-size: 11px; letter-spacing: .3px;
+    border-radius: 999px; padding: 4px 9px; text-transform: uppercase;
+  }
+  .label.min { background: var(--green); color: #0b0b0d; }
+  .label.prime { background: var(--orange); color: #0b0b0d; }
+  .label.tempo, .label.err { background: var(--red); color: #fff; }
+  .body { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+  .cat { color: var(--muted); font-size: 12px; font-weight: 500; }
+  .name {
+    margin: 0; font-size: 14.5px; font-weight: 600; line-height: 1.35;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .prices { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+  .price { color: var(--orange); font-size: 24px; font-weight: 700; }
+  .old { color: var(--muted); text-decoration: line-through; text-decoration-color: var(--red); font-size: 14px; }
+  .extra { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tag { background: var(--surface-2); border-radius: 8px; font-size: 11.5px; padding: 3px 8px; color: var(--orange-2); }
+  .when { color: var(--muted); font-size: 11.5px; margin-top: auto; }
+  .cta {
+    display: block; text-align: center; text-decoration: none; background: var(--orange); color: #111;
+    font-weight: 700; font-size: 14px; border-radius: 12px; padding: 11px; margin-top: 4px;
+  }
+  .cta:active { transform: scale(.98); }
+
+  .empty { text-align: center; color: var(--muted); padding: 50px 10px; line-height: 1.6; }
+  .empty b { color: var(--text); }
+
+  footer { border-top: 1px solid var(--line); padding: 18px 0 34px; color: var(--muted); font-size: 12px; line-height: 1.6; }
+  footer a { color: var(--orange-2); }
+
+  @media (max-width: 520px) {  /* telefono: due colonne, si vedono piu' offerte */
+    .grid { grid-template-columns: 1fr 1fr; gap: 10px; }
+    .body { padding: 10px 10px 12px; gap: 6px; }
+    .name { font-size: 13px; }
+    .price { font-size: 19px; }
+    .old { font-size: 12px; }
+    .disc { font-size: 12.5px; padding: 3px 8px; top: 8px; right: 8px; }
+    .label { font-size: 9.5px; padding: 3px 7px; top: 8px; left: 8px; }
+    .cta { font-size: 13px; padding: 10px 6px; }
+    .when { font-size: 10.5px; }
+    .tag { font-size: 10.5px; }
+  }
+  @media (min-width: 720px) {
+    header { padding-top: 34px; }
+    .brand h1 { font-size: 26px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <div class="logo" aria-hidden="true">
+        <svg viewBox="0 0 24 24"><path fill="#0e0e11" d="M10 3h4v9h4.5L12 20 5.5 12H10z"/></svg>
+      </div>
+      <h1>RIBASSO <span>TECH</span></h1>
+    </div>
+    <p class="tagline">Offerte tech Amazon controllate sullo storico dei prezzi: niente finti sconti. Ogni offerta resta qui per 24 ore.</p>
+    <div class="updated" id="updated">Caricamento…</div>
+    <a class="tg-link" id="tgLink" href="https://t.me/ribasso_tech" target="_blank" rel="noopener">✈️ Offerte in tempo reale su <b>Telegram</b></a>
+  </header>
+
+  <div class="bar">
+    <div class="chips" id="chips" role="toolbar" aria-label="Categorie"></div>
+    <div class="tools">
+      <input class="search" id="q" type="search" placeholder="Cerca: mouse, ssd, friggitrice…" aria-label="Cerca">
+      <select id="sort" aria-label="Ordina">
+        <option value="new">Più recenti</option>
+        <option value="disc">Sconto maggiore</option>
+        <option value="low">Prezzo più basso</option>
+        <option value="high">Prezzo più alto</option>
+      </select>
+    </div>
+  </div>
+
+  <main class="grid" id="grid" aria-live="polite"></main>
+
+  <footer>
+    In qualità di Affiliato Amazon, Ribasso Tech riceve un guadagno dagli acquisti idonei. I link portano ad Amazon.it:
+    se acquisti, a te non costa nulla in più.<br>
+    I prezzi sono quelli rilevati all'ora indicata e possono cambiare in qualsiasi momento: fa fede il prezzo mostrato su
+    Amazon al momento dell'acquisto.<br>
+    <a href="https://t.me/ribasso_tech" target="_blank" rel="noopener">Canale Telegram</a> ·
+    <a href="https://t.me/ribassoprezzi_bot" target="_blank" rel="noopener">Bot avvisi di prezzo</a>
+  </footer>
+</div>
+
+<script>
+(function () {
+  var tg = window.Telegram && window.Telegram.WebApp;
+  var inTelegram = !!(tg && tg.initData);
+  if (inTelegram) {
+    try { tg.ready(); tg.expand(); tg.setHeaderColor('#0e0e11'); tg.setBackgroundColor('#0e0e11'); } catch (e) {}
+  }
+
+  var state = { all: [], cats: [], cat: 'all', q: '', sort: 'new' };
+  var $ = function (id) { return document.getElementById(id); };
+  var eur = function (x) { return x.toLocaleString('it-IT', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + '€'; };
+  var esc = function (s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+    return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); };
+  var LABELS = { min: ['min', 'Minimo storico'], prime: ['prime', 'Festa Prime'], tempo: ['tempo', 'A tempo'], err: ['err', 'Errore di prezzo?'] };
+
+  function when(ts) {
+    var d = new Date(ts);
+    if (isNaN(d)) return '';
+    return 'Prezzo rilevato alle ' + d.toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' }) +
+      ' del ' + d.toLocaleDateString('it-IT', { day: '2-digit', month: '2-digit' });
+  }
+
+  function openLink(url, ev) {
+    if (inTelegram) {          // dentro Telegram apro il browser/app Amazon, non la webview
+      ev.preventDefault();
+      try { tg.openLink(url); } catch (e) { window.open(url, '_blank'); }
+    }
+  }
+
+  function renderChips() {
+    var counts = {};
+    state.all.forEach(function (o) { counts[o.cat] = (counts[o.cat] || 0) + 1; });
+    var html = '<button class="chip" data-cat="all" aria-pressed="' + (state.cat === 'all') + '">Tutte<small>' + state.all.length + '</small></button>';
+    state.cats.forEach(function (c) {
+      if (!counts[c.key]) return;
+      html += '<button class="chip" data-cat="' + esc(c.key) + '" aria-pressed="' + (state.cat === c.key) + '">' +
+        esc(c.label) + '<small>' + counts[c.key] + '</small></button>';
+    });
+    $('chips').innerHTML = html;
+  }
+
+  function render() {
+    var q = state.q.trim().toLowerCase();
+    var list = state.all.filter(function (o) {
+      if (state.cat !== 'all' && o.cat !== state.cat) return false;
+      if (q && (o.name + ' ' + (o.tag || '') + ' ' + (o.cat_label || '')).toLowerCase().indexOf(q) < 0) return false;
+      return true;
+    });
+    var by = {
+      new: function (a, b) { return a.ts < b.ts ? 1 : -1; },
+      disc: function (a, b) { return (b.discount || 0) - (a.discount || 0); },
+      low: function (a, b) { return a.price - b.price; },
+      high: function (a, b) { return b.price - a.price; }
+    }[state.sort];
+    list.sort(by);
+
+    if (!list.length) {
+      $('grid').innerHTML = '<div class="empty" style="grid-column:1/-1">' + (state.all.length
+        ? '<b>Nessuna offerta con questi filtri.</b><br>Prova un\'altra categoria o un\'altra parola.'
+        : '<b>Nessuna offerta attiva in questo momento.</b><br>Le nuove offerte arrivano ogni giorno: seguici su Telegram per non perderle.') + '</div>';
+      return;
+    }
+    $('grid').innerHTML = list.map(function (o) {
+      var lab = LABELS[o.deal];
+      var extra = '';
+      if (o.prime) extra += '<span class="tag">🌟 Solo Prime</span>';
+      if (o.coupon) extra += '<span class="tag">✂️ Coupon ' + esc(o.coupon) + '</span>';
+      return '<article class="card">' +
+        '<div class="ph">' +
+          (o.image ? '<img loading="lazy" src="' + esc(o.image) + '" alt="' + esc(o.name) + '">' : '<span class="noimg">🛒</span>') +
+          (o.discount ? '<span class="disc">-' + o.discount + '%</span>' : '') +
+          (lab ? '<span class="label ' + lab[0] + '">' + lab[1] + '</span>' : '') +
+        '</div>' +
+        '<div class="body">' +
+          '<div class="cat">' + esc(o.cat_label || '') + '</div>' +
+          '<h2 class="name">' + esc(o.name) + '</h2>' +
+          '<div class="prices"><span class="price">' + eur(o.price) + '</span>' +
+            (o.list_price && o.list_price > o.price ? '<span class="old">' + eur(o.list_price) + '</span>' : '') + '</div>' +
+          (extra ? '<div class="extra">' + extra + '</div>' : '') +
+          '<div class="when">' + when(o.ts) + '</div>' +
+          '<a class="cta" href="' + esc(o.link) + '" target="_blank" rel="noopener sponsored" data-link="' + esc(o.link) + '">Vedi su Amazon</a>' +
+        '</div></article>';
+    }).join('');
+  }
+
+  $('chips').addEventListener('click', function (e) {
+    var b = e.target.closest('.chip');
+    if (!b) return;
+    state.cat = b.getAttribute('data-cat');
+    history.replaceState(null, '', state.cat === 'all' ? location.pathname : '#' + state.cat);
+    renderChips(); render();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+  $('q').addEventListener('input', function (e) { state.q = e.target.value; render(); });
+  $('sort').addEventListener('change', function (e) { state.sort = e.target.value; render(); });
+  $('grid').addEventListener('click', function (e) {
+    var a = e.target.closest('a.cta');
+    if (a) openLink(a.getAttribute('data-link'), e);
+  });
+  $('tgLink').addEventListener('click', function (e) { openLink(this.href, e); });
+
+  // categoria dall'indirizzo: ribassotech.github.io/#casa apre direttamente "Casa smart"
+  var hash = decodeURIComponent(location.hash.replace('#', ''));
+  if (hash) state.cat = hash;
+
+  fetch('offerte.json?_=' + Date.now(), { cache: 'no-store' })
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (data) {
+      var limit = Date.now() - 24 * 3600 * 1000;   // doppia sicurezza: niente prezzi vecchi
+      state.all = (data.offers || []).filter(function (o) { return new Date(o.ts).getTime() >= limit; });
+      state.cats = data.categories || [];
+      if (state.cat !== 'all' && !state.all.some(function (o) { return o.cat === state.cat; })) state.cat = 'all';
+      $('updated').textContent = data.updated ? 'Aggiornato: ' + when(data.updated).replace('Prezzo rilevato alle ', 'ore ') : '';
+      renderChips(); render();
+    })
+    .catch(function () {
+      $('updated').textContent = '';
+      $('grid').innerHTML = '<div class="empty" style="grid-column:1/-1"><b>Non riesco a caricare le offerte.</b><br>Riprova tra poco, oppure seguici su Telegram.</div>';
+    });
+})();
+</script>
+</body>
+</html>

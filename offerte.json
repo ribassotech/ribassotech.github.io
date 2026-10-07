@@ -1,0 +1,58 @@
+{
+ "updated": null,
+ "categories": [
+  {
+   "key": "smartphone",
+   "label": "📱 Smartphone"
+  },
+  {
+   "key": "tablet",
+   "label": "📲 Tablet"
+  },
+  {
+   "key": "pc",
+   "label": "💻 PC e notebook"
+  },
+  {
+   "key": "monitor",
+   "label": "🖥 Monitor"
+  },
+  {
+   "key": "input",
+   "label": "🖱 Mouse e tastiere"
+  },
+  {
+   "key": "storage",
+   "label": "🧩 SSD e memorie"
+  },
+  {
+   "key": "audio",
+   "label": "🎧 Audio"
+  },
+  {
+   "key": "wearable",
+   "label": "⌚ Smartwatch"
+  },
+  {
+   "key": "ricarica",
+   "label": "🔋 Accessori e ricarica"
+  },
+  {
+   "key": "rete",
+   "label": "📡 Rete e Wi-Fi"
+  },
+  {
+   "key": "casa",
+   "label": "🏠 Casa smart"
+  },
+  {
+   "key": "cucina",
+   "label": "🍳 Elettrodomestici cucina"
+  },
+  {
+   "key": "maker",
+   "label": "🛠 Maker e LoRa"
+  }
+ ],
+ "offers": []
+}
