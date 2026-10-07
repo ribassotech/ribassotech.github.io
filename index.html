@@ -41,53 +41,126 @@
   .wrap { max-width: 1180px; margin: 0 auto; padding: 0 16px; }
 
   /* intestazione */
-  header { padding: 22px 0 8px; }
-  .brand { display: flex; align-items: center; gap: 12px; }
+  .top {
+    display: flex; align-items: center; justify-content: space-between; gap: 12px;
+    padding: 16px 0 6px;
+  }
+  .brand { display: flex; align-items: center; gap: 11px; text-decoration: none; color: var(--text); }
   .logo {
-    width: 44px; height: 44px; border-radius: 12px; background: var(--orange);
-    display: grid; place-items: center; flex: none;
+    width: 40px; height: 40px; border-radius: 12px; flex: none; display: grid; place-items: center;
+    background: linear-gradient(145deg, var(--orange-2), var(--orange));
+    box-shadow: 0 6px 18px rgba(255,138,0,.35);
   }
-  .logo svg { width: 26px; height: 26px; }
-  .brand h1 { margin: 0; font-size: 22px; letter-spacing: .5px; font-weight: 700; }
+  .logo svg { width: 24px; height: 24px; }
+  .brand h1 { margin: 0; font-size: 19px; letter-spacing: .6px; font-weight: 700; }
   .brand h1 span { color: var(--orange); }
-  .tagline { margin: 10px 0 0; color: var(--muted); font-size: 14px; line-height: 1.5; }
-  .updated { color: var(--muted); font-size: 12px; margin-top: 6px; }
-  .tg-link {
-    display: inline-flex; align-items: center; gap: 8px; margin-top: 12px;
-    background: var(--surface-2); color: var(--text); text-decoration: none;
-    border: 1px solid var(--line); border-radius: 999px; padding: 8px 14px; font-size: 13px; font-weight: 600;
+  .menu-btn {
+    flex: none; display: inline-flex; align-items: center; gap: 8px; cursor: pointer;
+    background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 999px;
+    padding: 8px 14px 8px 12px; font: 600 13px Poppins, sans-serif;
   }
-  .tg-link b { color: var(--orange); font-weight: 600; }
-  .social { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
-  .social a {
-    display: inline-flex; align-items: center; gap: 6px; text-decoration: none; color: var(--text);
-    background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px;
-    padding: 7px 12px; font-size: 12.5px; font-weight: 600;
+  .menu-btn svg { width: 18px; height: 18px; }
+  .menu-btn:hover { border-color: #44444f; }
+  .hero { padding: 18px 0 4px; }
+  .hero h2 {
+    margin: 0; font-size: 26px; line-height: 1.2; font-weight: 700; letter-spacing: -.2px; max-width: 640px;
   }
-  .social a.main { background: var(--orange); border-color: var(--orange); color: #111; }
-  .social a:focus-visible { outline: 2px solid var(--orange); outline-offset: 2px; }
+  .hero h2 em {
+    font-style: normal; background: linear-gradient(90deg, var(--orange-2), var(--orange));
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+  }
+  .tagline { margin: 8px 0 0; color: var(--muted); font-size: 14px; line-height: 1.55; max-width: 620px; }
+  .stats { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 14px; }
+  .stat {
+    display: inline-flex; align-items: center; gap: 7px; font-size: 12.5px; color: var(--muted);
+    background: rgba(255,255,255,.035); border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px;
+  }
+  .stat b { color: var(--text); font-weight: 600; }
+  .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); box-shadow: 0 0 0 3px rgba(60,210,120,.18); }
+
+  /* menu laterale "Seguici" */
+  .scrim {
+    position: fixed; inset: 0; z-index: 40; background: rgba(5,5,8,.6);
+    -webkit-backdrop-filter: blur(3px); backdrop-filter: blur(3px);
+    opacity: 0; pointer-events: none; transition: opacity .25s ease;
+  }
+  .drawer {
+    position: fixed; top: 0; right: 0; bottom: 0; z-index: 41; width: min(360px, 88vw);
+    background: #141419; border-left: 1px solid var(--line); box-shadow: -20px 0 50px rgba(0,0,0,.45);
+    transform: translateX(105%); transition: transform .3s cubic-bezier(.2,.8,.2,1);
+    display: flex; flex-direction: column; padding: 18px 16px calc(18px + env(safe-area-inset-bottom));
+    overflow-y: auto;
+  }
+  body.menu-open .scrim { opacity: 1; pointer-events: auto; }
+  body.menu-open .drawer { transform: none; }
+  body.menu-open { overflow: hidden; }
+  .drawer-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px; }
+  .drawer-head h3 { margin: 0; font-size: 18px; }
+  .close {
+    width: 36px; height: 36px; border-radius: 50%; border: 1px solid var(--line); background: var(--surface);
+    color: var(--text); cursor: pointer; display: grid; place-items: center;
+  }
+  .close svg { width: 18px; height: 18px; }
+  .feature {
+    display: block; text-decoration: none; color: #111; border-radius: 16px; padding: 16px;
+    background: linear-gradient(145deg, var(--orange-2), var(--orange)); margin-bottom: 16px;
+    box-shadow: 0 10px 26px rgba(255,138,0,.25);
+  }
+  .feature strong { display: block; font-size: 16px; }
+  .feature span { display: block; font-size: 12.5px; margin-top: 3px; color: #3a2400; }
+  .feature .go {
+    display: inline-block; margin-top: 12px; background: #111; color: #fff; border-radius: 999px;
+    padding: 7px 14px; font-size: 12.5px; font-weight: 600;
+  }
+  .group-title {
+    font-size: 11px; text-transform: uppercase; letter-spacing: 1.2px; color: var(--muted);
+    margin: 6px 4px 8px; font-weight: 600;
+  }
+  .links { display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px; }
+  .links a {
+    display: flex; align-items: center; gap: 12px; text-decoration: none; color: var(--text);
+    padding: 10px; border-radius: 14px; border: 1px solid transparent; transition: background .15s, border-color .15s;
+  }
+  .links a:hover, .links a:focus-visible { background: var(--surface); border-color: var(--line); outline: none; }
+  .ico {
+    width: 38px; height: 38px; border-radius: 11px; flex: none; display: grid; place-items: center; color: #fff;
+  }
+  .ico svg { width: 20px; height: 20px; }
+  .links .txt { flex: 1; min-width: 0; }
+  .links .txt b { display: block; font-size: 14px; font-weight: 600; }
+  .links .txt small { display: block; font-size: 12px; color: var(--muted); }
+  .links .arr { color: #5c5c68; width: 16px; height: 16px; flex: none; }
+  .i-tg { background: #2aabee; } .i-wa { background: #25d366; }
+  .i-ig { background: linear-gradient(45deg, #f9a825, #e91e63 55%, #8e24aa); }
+  .i-fb { background: #1877f2; } .i-tt { background: #111; box-shadow: inset 0 0 0 1px #333; }
+  .i-bot { background: var(--orange); color: #111; } .i-lora { background: #2c2c36; }
+  .drawer-foot { margin-top: auto; color: var(--muted); font-size: 11.5px; line-height: 1.5; padding: 10px 4px 0; }
 
   /* barra filtri */
   .bar {
-    position: sticky; top: 0; z-index: 5; padding: 12px 0 10px;
-    background: linear-gradient(var(--bg) 75%, rgba(14,14,17,0));
+    position: sticky; top: 0; z-index: 5; padding: 12px 16px 10px; margin: 0 -16px;
+    background: rgba(14,14,17,.82); -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px);
+    border-bottom: 1px solid transparent; transition: border-color .2s;
   }
   .chips {
     display: flex; gap: 8px; overflow-x: auto; padding-bottom: 6px; scrollbar-width: none;
     -webkit-overflow-scrolling: touch;
   }
+  .bar.stuck { border-bottom-color: var(--line); }
   .chips::-webkit-scrollbar { display: none; }
   .chip {
     flex: none; border: 1px solid var(--line); background: var(--surface); color: var(--text);
     border-radius: 999px; padding: 8px 14px; font: 600 13px Poppins, sans-serif; cursor: pointer;
-    white-space: nowrap;
+    white-space: nowrap; transition: background .15s, border-color .15s;
   }
+  .chip:hover { border-color: #44444f; }
   .chip small { color: var(--muted); font-weight: 500; margin-left: 4px; }
   .chip[aria-pressed="true"] { background: var(--orange); border-color: var(--orange); color: #111; }
   .chip[aria-pressed="true"] small { color: #3a2400; }
   .tools { display: flex; gap: 8px; margin-top: 8px; }
   .search {
-    flex: 1; min-width: 0; background: var(--surface); border: 1px solid var(--line); color: var(--text);
+    flex: 1; padding-left: 38px !important;
+    background: var(--surface) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' fill='none' stroke='%239a9fab' stroke-width='2' stroke-linecap='round' viewBox='0 0 24 24'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='m20 20-3.5-3.5'/%3E%3C/svg%3E") no-repeat 12px 50% !important; min-width: 0; background: var(--surface); border: 1px solid var(--line); color: var(--text);
     border-radius: 12px; padding: 10px 12px; font: 500 14px Poppins, sans-serif;
   }
   .search::placeholder { color: var(--muted); }
@@ -105,8 +178,20 @@
   .card {
     background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
     overflow: hidden; display: flex; flex-direction: column;
+    transition: transform .2s ease, border-color .2s ease, box-shadow .2s ease;
+    animation: rise .35s ease both;
   }
-  .ph { position: relative; background: #fff; aspect-ratio: 4 / 3; display: grid; place-items: center; }
+  @media (hover: hover) {
+    .card:hover { transform: translateY(-3px); border-color: #3d3d48; box-shadow: 0 14px 30px rgba(0,0,0,.35); }
+  }
+  @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .card, .drawer, .scrim { animation: none; transition: none; } }
+  .skel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+  .skel .ph { background: linear-gradient(90deg, #1f1f26 0%, #2a2a33 50%, #1f1f26 100%); background-size: 200% 100%; animation: shimmer 1.2s infinite linear; }
+  .skel .ln { height: 12px; margin: 12px 14px; border-radius: 6px; background: #24242c; }
+  .skel .ln.s { width: 55%; }
+  @keyframes shimmer { to { background-position: -200% 0; } }
+  .ph { position: relative; background: #fff; border-bottom: 1px solid var(--line); aspect-ratio: 4 / 3; display: grid; place-items: center; }
   .ph img { max-width: 86%; max-height: 86%; object-fit: contain; }
   .ph .noimg { color: #b3b3b3; font-size: 40px; }
   .disc {
@@ -136,6 +221,7 @@
     display: block; text-align: center; text-decoration: none; background: var(--orange); color: #111;
     font-weight: 700; font-size: 14px; border-radius: 12px; padding: 11px; margin-top: 4px;
   }
+  .cta:hover { filter: brightness(1.08); }
   .cta:active { transform: scale(.98); }
 
   .empty { text-align: center; color: var(--muted); padding: 50px 10px; line-height: 1.6; }
@@ -143,8 +229,12 @@
 
   footer { border-top: 1px solid var(--line); padding: 18px 0 34px; color: var(--muted); font-size: 12px; line-height: 1.6; }
   footer a { color: var(--orange-2); }
+  .foot-links { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-top: 10px; }
+  .foot-links a { color: var(--muted); text-decoration: none; }
+  .foot-links a:hover { color: var(--orange-2); }
 
   @media (max-width: 520px) {  /* telefono: due colonne, si vedono piu' offerte */
+    .hero h2 { font-size: 21px; }
     .grid { grid-template-columns: 1fr 1fr; gap: 10px; }
     .body { padding: 10px 10px 12px; gap: 6px; }
     .name { font-size: 13px; }
@@ -157,32 +247,87 @@
     .tag { font-size: 10.5px; }
   }
   @media (min-width: 720px) {
-    header { padding-top: 34px; }
-    .brand h1 { font-size: 26px; }
+    .top { padding-top: 24px; }
+    .hero { padding-top: 30px; }
+    .hero h2 { font-size: 34px; }
   }
 </style>
 </head>
 <body>
 <div class="wrap">
   <header>
-    <div class="brand">
-      <div class="logo" aria-hidden="true">
-        <svg viewBox="0 0 24 24"><path fill="#0e0e11" d="M10 3h4v9h4.5L12 20 5.5 12H10z"/></svg>
-      </div>
-      <h1>RIBASSO <span>TECH</span></h1>
+    <div class="top">
+      <a class="brand" href="./" aria-label="Ribasso Tech, home">
+        <span class="logo" aria-hidden="true">
+          <svg viewBox="0 0 24 24"><path fill="#0e0e11" d="M10 3h4v9h4.5L12 20 5.5 12H10z"/></svg>
+        </span>
+        <h1>RIBASSO <span>TECH</span></h1>
+      </a>
+      <button class="menu-btn" id="menuBtn" type="button" aria-controls="drawer" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h10"/></svg>
+        <span class="lbl">Seguici</span>
+      </button>
     </div>
-    <p class="tagline">Offerte tech Amazon controllate sullo storico dei prezzi: niente finti sconti. Ogni offerta resta qui per 24 ore.</p>
-    <div class="updated" id="updated">Caricamento…</div>
-    <!-- I nostri canali: per cambiare un indirizzo basta modificare il link qui sotto -->
-    <nav class="social" aria-label="Seguici">
-      <a class="main" href="https://t.me/ribasso_tech" target="_blank" rel="noopener">✈️ Telegram</a>
-      <a href="https://whatsapp.com/channel/0029Vb8Npm989inhfqBbIJ1v" target="_blank" rel="noopener">💬 WhatsApp</a>
-      <a href="https://www.instagram.com/ribasso_tech/" target="_blank" rel="noopener">📸 Instagram</a>
-      <a href="https://www.facebook.com/1306742859196519" target="_blank" rel="noopener">📘 Facebook</a>
-      <a href="https://www.tiktok.com/@ribasso.tech" target="_blank" rel="noopener">🎵 TikTok</a>
-      <a href="https://t.me/ribassoprezzi_bot" target="_blank" rel="noopener">🔔 Avvisi di prezzo</a>
-    </nav>
+    <div class="hero">
+      <h2>Offerte tech Amazon, <em>solo quelle vere.</em></h2>
+      <p class="tagline">Ogni prezzo è controllato sullo storico: niente finti sconti. Le offerte restano qui per 24 ore.</p>
+      <div class="stats">
+        <span class="stat"><span class="dot"></span><span id="count">Caricamento…</span></span>
+        <span class="stat" id="updated" hidden></span>
+      </div>
+    </div>
   </header>
+
+  <!-- Menu laterale "Seguici": per cambiare un indirizzo basta modificare il link qui sotto -->
+  <div class="scrim" id="scrim"></div>
+  <aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="drawerTitle" aria-hidden="true">
+    <div class="drawer-head">
+      <h3 id="drawerTitle">Seguici</h3>
+      <button class="close" id="closeBtn" type="button" aria-label="Chiudi">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+    </div>
+    <a class="feature" href="https://t.me/ribasso_tech" target="_blank" rel="noopener">
+      <strong>Non perderti le prossime offerte</strong>
+      <span>Sul canale Telegram arrivano appena il prezzo scende, prima che finiscano.</span>
+      <span class="go">Iscriviti al canale →</span>
+    </a>
+    <div class="group-title">I nostri canali</div>
+    <nav class="links" aria-label="Social">
+        <a href="https://t.me/ribasso_tech" target="_blank" rel="noopener">
+          <span class="ico i-tg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 4 3 11l6 2 2 6 3-4 5 4z"/><path d="m9 13 8-6"/></svg></span>
+          <span class="txt"><b>Telegram</b><small>Il canale principale</small></span><svg class="arr" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>
+        </a>
+        <a href="https://whatsapp.com/channel/0029Vb8Npm989inhfqBbIJ1v" target="_blank" rel="noopener">
+          <span class="ico i-wa"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20l1.3-3.9A8 8 0 1 1 8 19z"/></svg></span>
+          <span class="txt"><b>WhatsApp</b><small>Le offerte migliori sul canale</small></span><svg class="arr" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>
+        </a>
+        <a href="https://www.instagram.com/ribasso_tech/" target="_blank" rel="noopener">
+          <span class="ico i-ig"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="5"/><circle cx="12" cy="12" r="3.5"/><circle cx="17" cy="7" r=".6" fill="currentColor"/></svg></span>
+          <span class="txt"><b>Instagram</b><small>@ribasso_tech</small></span><svg class="arr" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>
+        </a>
+        <a href="https://www.facebook.com/1306742859196519" target="_blank" rel="noopener">
+          <span class="ico i-fb"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3"/><path d="M3 20a6 6 0 0 1 12 0"/><path d="M16 5a3 3 0 0 1 0 6M21 20a6 6 0 0 0-4-5.6"/></svg></span>
+          <span class="txt"><b>Facebook</b><small>Pagina e gruppo Ribasso Tech</small></span><svg class="arr" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>
+        </a>
+        <a href="https://www.tiktok.com/@ribasso.tech" target="_blank" rel="noopener">
+          <span class="ico i-tt"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V6l10-2v12"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/></svg></span>
+          <span class="txt"><b>TikTok</b><small>@ribasso.tech</small></span><svg class="arr" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>
+        </a>
+    </nav>
+    <div class="group-title">Strumenti</div>
+    <nav class="links" aria-label="Strumenti">
+        <a href="https://t.me/ribassoprezzi_bot" target="_blank" rel="noopener">
+          <span class="ico i-bot"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 16V11a6 6 0 0 1 12 0v5l2 2H4z"/><path d="M10 21h4"/></svg></span>
+          <span class="txt"><b>Avvisi di prezzo</b><small>Il bot ti scrive quando un prodotto scende</small></span><svg class="arr" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>
+        </a>
+        <a href="https://t.me/offerteloraesp32" target="_blank" rel="noopener">
+          <span class="ico i-lora"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="7" y="7" width="10" height="10" rx="2"/><path d="M10 3v4M14 3v4M10 17v4M14 17v4M3 10h4M3 14h4M17 10h4M17 14h4"/></svg></span>
+          <span class="txt"><b>Canale LoRa &amp; ESP32</b><small>Offerte per maker ed elettronica</small></span><svg class="arr" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>
+        </a>
+    </nav>
+    <div class="drawer-foot">Tutti i canali sono gratuiti. Ribasso Tech partecipa al Programma Affiliazione Amazon.</div>
+  </aside>
 
   <div class="bar">
     <div class="chips" id="chips" role="toolbar" aria-label="Categorie"></div>
@@ -204,15 +349,14 @@
     se acquisti, a te non costa nulla in più.<br>
     I prezzi sono quelli rilevati all'ora indicata e possono cambiare in qualsiasi momento: fa fede il prezzo mostrato su
     Amazon al momento dell'acquisto.<br>
-    <span class="social-foot">
-      <a href="https://t.me/ribasso_tech" target="_blank" rel="noopener">Telegram</a> ·
-      <a href="https://whatsapp.com/channel/0029Vb8Npm989inhfqBbIJ1v" target="_blank" rel="noopener">WhatsApp</a> ·
-      <a href="https://www.instagram.com/ribasso_tech/" target="_blank" rel="noopener">Instagram</a> ·
-      <a href="https://www.facebook.com/1306742859196519" target="_blank" rel="noopener">Facebook</a> ·
-      <a href="https://www.tiktok.com/@ribassotech" target="_blank" rel="noopener">TikTok</a> ·
-      <a href="https://t.me/ribassoprezzi_bot" target="_blank" rel="noopener">Bot avvisi di prezzo</a> ·
-      <a href="https://t.me/offerteloraesp32" target="_blank" rel="noopener">Canale LoRa &amp; ESP32</a>
-    </span>
+    <nav class="foot-links" aria-label="Link">
+      <a href="https://t.me/ribasso_tech" target="_blank" rel="noopener">Telegram</a>
+      <a href="https://whatsapp.com/channel/0029Vb8Npm989inhfqBbIJ1v" target="_blank" rel="noopener">WhatsApp</a>
+      <a href="https://www.instagram.com/ribasso_tech/" target="_blank" rel="noopener">Instagram</a>
+      <a href="https://www.facebook.com/1306742859196519" target="_blank" rel="noopener">Facebook</a>
+      <a href="https://www.tiktok.com/@ribasso.tech" target="_blank" rel="noopener">TikTok</a>
+      <a href="https://t.me/ribassoprezzi_bot" target="_blank" rel="noopener">Bot avvisi</a>
+    </nav>
   </footer>
 </div>
 
@@ -316,7 +460,7 @@
     if (a) openLink(a.getAttribute('data-link'), e);
   });
   // dentro Telegram: i link t.me restano in Telegram, gli altri si aprono nel browser/app esterna
-  document.querySelectorAll('.social a, .social-foot a').forEach(function (a) {
+  document.querySelectorAll('.drawer a, .foot-links a').forEach(function (a) {
     a.addEventListener('click', function (e) {
       if (!inTelegram) return;
       e.preventDefault();
@@ -325,6 +469,26 @@
       } catch (err) { window.open(a.href, '_blank'); }
     });
   });
+
+  // menu laterale
+  function setMenu(open) {
+    document.body.classList.toggle('menu-open', open);
+    $('menuBtn').setAttribute('aria-expanded', open);
+    $('drawer').setAttribute('aria-hidden', !open);
+    if (open) $('closeBtn').focus(); else $('menuBtn').focus();
+  }
+  $('menuBtn').addEventListener('click', function () { setMenu(true); });
+  $('closeBtn').addEventListener('click', function () { setMenu(false); });
+  $('scrim').addEventListener('click', function () { setMenu(false); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && document.body.classList.contains('menu-open')) setMenu(false);
+  });
+  // bordo sotto la barra filtri quando resta agganciata in alto
+  var bar = document.querySelector('.bar');
+  window.addEventListener('scroll', function () { bar.classList.toggle('stuck', bar.getBoundingClientRect().top <= 0 && window.scrollY > 0); }, { passive: true });
+
+  // segnaposto mentre carica
+  $('grid').innerHTML = Array(8).join('<div class="skel"><div class="ph"></div><div class="ln"></div><div class="ln s"></div></div>');
 
   // categoria dall'indirizzo: ribassotech.github.io/#casa apre direttamente "Casa smart"
   var hash = decodeURIComponent(location.hash.replace('#', ''));
@@ -337,11 +501,13 @@
       state.all = (data.offers || []).filter(function (o) { return new Date(o.ts).getTime() >= limit; });
       state.cats = data.categories || [];
       if (state.cat !== 'all' && !state.all.some(function (o) { return o.cat === state.cat; })) state.cat = 'all';
-      $('updated').textContent = data.updated ? 'Aggiornato: ' + when(data.updated).replace('Prezzo rilevato alle ', 'ore ') : '';
+      var n = state.all.length;
+      $('count').innerHTML = '<b>' + n + '</b> ' + (n === 1 ? 'offerta attiva' : 'offerte attive');
+      if (data.updated) { $('updated').hidden = false; $('updated').innerHTML = 'Aggiornato <b>' + esc(when(data.updated).replace('Prezzo rilevato alle ', 'ore ')) + '</b>'; }
       renderChips(); render();
     })
     .catch(function () {
-      $('updated').textContent = '';
+      $('count').textContent = 'Offerte non disponibili';
       $('grid').innerHTML = '<div class="empty" style="grid-column:1/-1"><b>Non riesco a caricare le offerte.</b><br>Riprova tra poco, oppure seguici su Telegram.</div>';
     });
 })();
