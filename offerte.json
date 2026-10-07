@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T17:37+02:00",
+ "updated": "2026-10-07T20:26+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -55,6 +55,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0DFWPBFXV",
+   "name": "FRITZ!Box 7690, Modem Router Wi-Fi 7 Dual Band (2.4 GHz, 5 GHz) fino a 7.000 Mbit/s, per",
+   "price": 219.99,
+   "list_price": 379.0,
+   "discount": 42,
+   "cat": "rete",
+   "cat_label": "📡 Rete e Wi-Fi",
+   "tag": "router",
+   "deal": "tempo",
+   "prime": true,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61gSx7mTADL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0DFWPBFXV?tag=offerteloraes-21",
+   "ts": "2026-10-07T20:26+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0F66TFJY3",
    "name": "CMF Watch 3 Pro – Smartwatch con Display AMOLED da 1,43\", 13 giorni di autonomia",
