@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T22:44+02:00",
+ "updated": "2026-10-08T00:40+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -55,6 +55,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0F63WRQCX",
+   "name": "GXTrust Vylax Mouse Gaming Wireless Ricaricabile 800-4800 DPI, Nero",
+   "price": 13.99,
+   "list_price": 15.99,
+   "discount": 13,
+   "cat": "input",
+   "cat_label": "🖱 Mouse e tastiere",
+   "tag": "mouse",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/711bP+FjSQL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0F63WRQCX?tag=offerteloraes-21",
+   "ts": "2026-10-08T00:40+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0CPHTF13D",
    "name": "fanxiang SSD NVMe 512GB M.2 2280 PCIe Gen3x4, Fino a 3000 MB/s, S501Q",
