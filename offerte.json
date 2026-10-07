@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T20:26+02:00",
+ "updated": "2026-10-07T20:57+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -55,6 +55,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0DB899XLS",
+   "name": "Trust Yuno Mouse Ergonomico Senza Filo, Mouse Verticale Ricaricabile, Nero",
+   "price": 20.69,
+   "list_price": 27.99,
+   "discount": 26,
+   "cat": "input",
+   "cat_label": "🖱 Mouse e tastiere",
+   "tag": "mouse",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/6146Bb3B1nL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0DB899XLS?tag=offerteloraes-21",
+   "ts": "2026-10-07T20:57+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0DFWPBFXV",
    "name": "FRITZ!Box 7690, Modem Router Wi-Fi 7 Dual Band (2.4 GHz, 5 GHz) fino a 7.000 Mbit/s, per",
