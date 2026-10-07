@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T22:39+02:00",
+ "updated": "2026-10-07T22:40+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -55,6 +55,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0GLJCJY4R",
+   "name": "Amazon Fire TV Stick 4K Select (ultimo modello) + Ring Intercom Audio | Rendi il tuo",
+   "price": 48.99,
+   "list_price": 149.98,
+   "discount": 67,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "firetv",
+   "deal": "tempo",
+   "prime": true,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61rMSrCFBdL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0GLJCJY4R?tag=offerteloraes-21",
+   "ts": "2026-10-07T22:40+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0GM15CN7G",
    "name": "Videocamera esterna 2K+ Blink con Videocamera Mini 2K+ Blink (ultimo modello), Bianco",
