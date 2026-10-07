@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T17:01+02:00",
+ "updated": "2026-10-07T17:03+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -54,5 +54,23 @@
    "label": "🛠 Maker e LoRa"
   }
  ],
- "offers": []
+ "offers": [
+  {
+   "asin": "B0GQMJ8QQT",
+   "name": "Bambu Lab A1 Mini Stampante 3D+Luce LED, Montaggio 20 Min per Principianti",
+   "price": 195.0,
+   "list_price": 219.0,
+   "discount": 11,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "",
+   "deal": "prime",
+   "prime": true,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61mnvCwD9wL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0GQMJ8QQT?tag=offerteloraes-21",
+   "ts": "2026-10-07T17:03+02:00",
+   "channel": "tech"
+  }
+ ]
 }
