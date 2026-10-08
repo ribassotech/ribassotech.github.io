@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T09:30+02:00",
+ "updated": "2026-10-08T16:00+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -16,6 +16,10 @@
   {
    "key": "monitor",
    "label": "🖥 Monitor"
+  },
+  {
+   "key": "tv",
+   "label": "📺 TV"
   },
   {
    "key": "input",
