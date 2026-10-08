@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T18:00+02:00",
+ "updated": "2026-10-08T18:09+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B09M8ZSM4W",
+   "name": "De'Longhi Macchina da caffè manuale Stilosa EC260.W, pressione 15 bar, sistema",
+   "price": 99.9,
+   "list_price": 129.9,
+   "discount": 23,
+   "cat": "cucina",
+   "cat_label": "🍳 Elettrodomestici cucina",
+   "tag": "caffe",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71OF6KK7ikL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B09M8ZSM4W?tag=offerteloraes-21",
+   "ts": "2026-10-08T18:09+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0GQVH8NMS",
    "name": "Lenovo Chromebook 14\" Notebook IPS WUXGA (1920x1200), 64GB SSD, 4GB RAM, Wi-Fi6E",
