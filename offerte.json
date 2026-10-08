@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T00:22+02:00",
+ "updated": "2026-10-09T01:00+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -295,23 +295,6 @@
    "image": "https://m.media-amazon.com/images/I/71e+VKOS-9L._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B09B8X9RGM?tag=offerteloraes-21",
    "ts": "2026-10-08T09:30+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0F63WRQCX",
-   "name": "GXTrust Vylax Mouse Gaming Wireless Ricaricabile 800-4800 DPI, Nero",
-   "price": 13.99,
-   "list_price": 15.99,
-   "discount": 13,
-   "cat": "input",
-   "cat_label": "🖱 Mouse e tastiere",
-   "tag": "mouse",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/711bP+FjSQL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0F63WRQCX?tag=offerteloraes-21",
-   "ts": "2026-10-08T00:40+02:00",
    "channel": "tech"
   }
  ]
