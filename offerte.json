@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T16:00+02:00",
+ "updated": "2026-10-08T16:15+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0GQVH8NMS",
+   "name": "Lenovo Chromebook 14\" Notebook IPS WUXGA (1920x1200), 64GB SSD, 4GB RAM, Wi-Fi6E",
+   "price": 199.99,
+   "list_price": 299.0,
+   "discount": 33,
+   "cat": "pc",
+   "cat_label": "💻 PC e notebook",
+   "tag": "chromebook",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": null,
+   "link": "https://www.amazon.it/dp/B0GQVH8NMS?tag=offerteloraes-21",
+   "ts": "2026-10-08T16:15+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B09B8X9RGM",
    "name": "Echo Dot (Ultimo modello) | Altoparlante intelligente Wi-Fi e Bluetooth, suono più",
