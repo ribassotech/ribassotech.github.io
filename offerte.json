@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T11:04+02:00",
+ "updated": "2026-10-09T11:05+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B07MQ2MFGC",
+   "name": "COMFEE' Deumidificatore Casa Muffa 16L/24h, Adatto fino a 32㎡, Tanica",
+   "price": 129.9,
+   "list_price": 179.9,
+   "discount": 28,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "deumidificatore",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51o1O6UT3DL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B07MQ2MFGC?tag=offerteloraes-21",
+   "ts": "2026-10-09T11:05+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0CC67PYHY",
    "name": "Netatmo Termostato Wifi Intelligente - Controlla il Riscaldamento da Remoto tramite App",
