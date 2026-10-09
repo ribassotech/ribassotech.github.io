@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T10:02+02:00",
+ "updated": "2026-10-09T11:04+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0CC67PYHY",
+   "name": "Netatmo Termostato Wifi Intelligente - Controlla il Riscaldamento da Remoto tramite App",
+   "price": 95.27,
+   "list_price": 179.99,
+   "discount": 47,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "termostato",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71UTJWydGyL._SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0CC67PYHY?tag=offerteloraes-21",
+   "ts": "2026-10-09T11:04+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0BBWHS5R1",
    "name": "Scheda di sviluppo Wi-Fi per Flipper Zero – modulo ESP32-S2 wireless con USB-C e GPIO",
