@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T17:51+02:00",
+ "updated": "2026-10-09T18:04+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0DHLV4P1B",
+   "name": "Videocamera Blink Outdoor 4 (Ultimo modello) - Videocamera di sicurezza smart HD",
+   "price": 24.99,
+   "list_price": 79.99,
+   "discount": 69,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "alexa",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61vNQupyR6L._SL1000_.jpg",
+   "link": "https://www.amazon.it/dp/B0DHLV4P1B?tag=offerteloraes-21",
+   "ts": "2026-10-09T18:04+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B07MQ2MFGC",
    "name": "COMFEE' Deumidificatore Casa Muffa 16L/24h, Adatto fino a 32㎡, Tanica",
