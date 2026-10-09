@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T22:43+02:00",
+ "updated": "2026-10-10T01:00+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -313,23 +313,6 @@
    "link": "https://www.amazon.it/dp/B0CC67PYHY?tag=offerteloraes-21",
    "ts": "2026-10-09T11:04+02:00",
    "channel": "tech"
-  },
-  {
-   "asin": "B0BBWHS5R1",
-   "name": "Scheda di sviluppo Wi-Fi per Flipper Zero – modulo ESP32-S2 wireless con USB-C e GPIO",
-   "price": 39.0,
-   "list_price": null,
-   "discount": null,
-   "cat": "maker",
-   "cat_label": "🛠 Maker e LoRa",
-   "tag": "esp32",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71OmmG1zmTL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0BBWHS5R1?tag=offerteloraes-21",
-   "ts": "2026-10-09T00:22+02:00",
-   "channel": "lora"
   }
  ]
 }
