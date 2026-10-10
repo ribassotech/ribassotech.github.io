@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T01:00+02:00",
+ "updated": "2026-10-10T07:21+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0FJ2197T9",
+   "name": "Samsung Galaxy A17 5G, 128GB, Gray [Versione Italiana]",
+   "price": 161.14,
+   "list_price": null,
+   "discount": 15,
+   "cat": "smartphone",
+   "cat_label": "📱 Smartphone",
+   "tag": "galaxy",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51YnNNn4b2L._AC_SL1005_.jpg",
+   "link": "https://www.amazon.it/dp/B0FJ2197T9?tag=offerteloraes-21",
+   "ts": "2026-10-10T07:21+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0GGC9FJM7",
    "name": "Google Pixel 10a - 7 anni di nuovi aggiornamenti e funzionalità, oltre 30",
