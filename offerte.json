@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T12:00+02:00",
+ "updated": "2026-10-10T19:00+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -261,57 +261,6 @@
    "image": "https://m.media-amazon.com/images/I/61U24jdXxuL._AC_UL320_.jpg",
    "link": "https://www.amazon.it/dp/B0DPXQR418?tag=offerteloraes-21",
    "ts": "2026-10-09T21:53+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0C2S2J7JP",
-   "name": "Amazon Echo Spot (modello 2024) | Sveglia intelligente con audio di qualità | Nero, con",
-   "price": 49.99,
-   "list_price": 119.99,
-   "discount": 58,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "alexa",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61H+-SpXyEL._AC_SL1001_.jpg",
-   "link": "https://www.amazon.it/dp/B0C2S2J7JP?tag=offerteloraes-21",
-   "ts": "2026-10-09T18:06+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0G62D7D84",
-   "name": "Blink Videocitofono cablato 2K+ (ultimo modello) | Videocitofono con video 2K a figura",
-   "price": 24.99,
-   "list_price": 49.99,
-   "discount": 50,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "videocitofono",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71pWsASD3UL._SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0G62D7D84?tag=offerteloraes-21",
-   "ts": "2026-10-09T18:05+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0DHLV4P1B",
-   "name": "Videocamera Blink Outdoor 4 (Ultimo modello) - Videocamera di sicurezza smart HD",
-   "price": 24.99,
-   "list_price": 79.99,
-   "discount": 69,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "alexa",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61vNQupyR6L._SL1000_.jpg",
-   "link": "https://www.amazon.it/dp/B0DHLV4P1B?tag=offerteloraes-21",
-   "ts": "2026-10-09T18:04+02:00",
    "channel": "tech"
   }
  ]
