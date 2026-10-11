@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T23:00+02:00",
+ "updated": "2026-10-11T07:27+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -74,23 +74,6 @@
    "image": "https://m.media-amazon.com/images/I/51XHvZ03SjL._AC_SL1000_.jpg",
    "link": "https://www.amazon.it/dp/B0CKXSYYH2?tag=offerteloraes-21",
    "ts": "2026-10-10T11:03+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0FJ2197T9",
-   "name": "Samsung Galaxy A17 5G, 128GB, Gray [Versione Italiana]",
-   "price": 161.14,
-   "list_price": null,
-   "discount": 15,
-   "cat": "smartphone",
-   "cat_label": "📱 Smartphone",
-   "tag": "galaxy",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/51YnNNn4b2L._AC_SL1005_.jpg",
-   "link": "https://www.amazon.it/dp/B0FJ2197T9?tag=offerteloraes-21",
-   "ts": "2026-10-10T07:21+02:00",
    "channel": "tech"
   }
  ]
