@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T12:00+02:00",
+ "updated": "2026-10-12T13:59+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0CX9CVS9Q",
+   "name": "PHILIPS Monitor 27E1N1100A 27 pollici 1920x1080, FHD, 120Hz, IPS Panel, 4ms GtG",
+   "price": 89.0,
+   "list_price": 119.0,
+   "discount": 25,
+   "cat": "monitor",
+   "cat_label": "🖥 Monitor",
+   "tag": "",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71+5xZyoyFL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0CX9CVS9Q?tag=offerteloraes-21",
+   "ts": "2026-10-12T13:59+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0CV191394",
    "name": "msi MAG 27CQ6F Monitor Gaming da 27\" WQHD Curvo - Pannello VA Rapid 1500R (2560 x 1440)",
