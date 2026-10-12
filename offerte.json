@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T13:59+02:00",
+ "updated": "2026-10-12T18:19+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0D63HF7Z4",
+   "name": "NOBIS 20000mAh 45W Power Bank",
+   "price": 28.99,
+   "list_price": 44.99,
+   "discount": 36,
+   "cat": "ricarica",
+   "cat_label": "🔋 Accessori e ricarica",
+   "tag": "powerbank",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61gijWn1ygL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0D63HF7Z4?tag=offerteloraes-21",
+   "ts": "2026-10-12T18:19+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0CX9CVS9Q",
    "name": "PHILIPS Monitor 27E1N1100A 27 pollici 1920x1080, FHD, 120Hz, IPS Panel, 4ms GtG",
@@ -210,23 +227,6 @@
    "image": "https://m.media-amazon.com/images/I/61hwstVanJL._AC_UL320_.jpg",
    "link": "https://www.amazon.it/dp/B0GT55WKDK?tag=offerteloraes-21",
    "ts": "2026-10-11T21:53+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0CGQ466W8",
-   "name": "Samsung Memorie T9 MU-PG1T0B SSD Esterno Portatile da 1TB, USB 3.2 Gen 2x2, 20 Gbps, Nero",
-   "price": 199.0,
-   "list_price": 319.9,
-   "discount": 38,
-   "cat": "storage",
-   "cat_label": "🧩 SSD e memorie",
-   "tag": "ssd",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/51lKJosG6mL._AC_SL1004_.jpg",
-   "link": "https://www.amazon.it/dp/B0CGQ466W8?tag=offerteloraes-21",
-   "ts": "2026-10-11T18:10+02:00",
    "channel": "tech"
   }
  ]
