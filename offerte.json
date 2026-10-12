@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T11:06+02:00",
+ "updated": "2026-10-12T12:00+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -210,23 +210,6 @@
    "image": "https://m.media-amazon.com/images/I/51lKJosG6mL._AC_SL1004_.jpg",
    "link": "https://www.amazon.it/dp/B0CGQ466W8?tag=offerteloraes-21",
    "ts": "2026-10-11T18:10+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0FQ4NHBLD",
-   "name": "wo-we Utilizzato per AMD Ryzen 5 3501U mini PC,8GB DDR4 RAM 256GB NVMe SSD",
-   "price": 289.99,
-   "list_price": 529.99,
-   "discount": 45,
-   "cat": "pc",
-   "cat_label": "💻 PC e notebook",
-   "tag": "minipc",
-   "deal": null,
-   "prime": false,
-   "coupon": "39,00€",
-   "image": "https://m.media-amazon.com/images/I/712ZZDKQyRL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0FQ4NHBLD?tag=offerteloraes-21",
-   "ts": "2026-10-11T11:27+02:00",
    "channel": "tech"
   }
  ]
