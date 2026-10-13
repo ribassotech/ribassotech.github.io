@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T14:00+02:00",
+ "updated": "2026-10-13T18:50+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -60,6 +60,23 @@
  ],
  "offers": [
   {
+   "asin": "B0FNWM7WP7",
+   "name": "Lefant M330 Pro Robot Aspirapolvere Lavapavimenti Anti-Groviglio, Nero",
+   "price": 139.97,
+   "list_price": 419.99,
+   "discount": 67,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "robotaspirapolvere",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71XS0VXxY-L._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0FNWM7WP7?tag=offerteloraes-21",
+   "ts": "2026-10-13T18:50+02:00",
+   "channel": "tech"
+  },
+  {
    "asin": "B0HC6RM5KD",
    "name": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh",
    "price": 89.99,
@@ -74,23 +91,6 @@
    "image": "https://m.media-amazon.com/images/I/71wV1yTSBYL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B0HC6RM5KD?tag=offerteloraes-21",
    "ts": "2026-10-13T12:13+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0D63HF7Z4",
-   "name": "NOBIS 20000mAh 45W Power Bank",
-   "price": 28.99,
-   "list_price": 44.99,
-   "discount": 36,
-   "cat": "ricarica",
-   "cat_label": "🔋 Accessori e ricarica",
-   "tag": "powerbank",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61gijWn1ygL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0D63HF7Z4?tag=offerteloraes-21",
-   "ts": "2026-10-12T18:19+02:00",
    "channel": "tech"
   }
  ]
