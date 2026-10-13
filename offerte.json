@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T22:00+02:00",
+ "updated": "2026-10-13T12:00+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -91,40 +91,6 @@
    "image": "https://m.media-amazon.com/images/I/71+5xZyoyFL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B0CX9CVS9Q?tag=offerteloraes-21",
    "ts": "2026-10-12T13:59+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0CV191394",
-   "name": "msi MAG 27CQ6F Monitor Gaming da 27\" WQHD Curvo - Pannello VA Rapid 1500R (2560 x 1440)",
-   "price": 159.99,
-   "list_price": 279.0,
-   "discount": 43,
-   "cat": "monitor",
-   "cat_label": "🖥 Monitor",
-   "tag": "",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71zk1Z7CTBL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0CV191394?tag=offerteloraes-21",
-   "ts": "2026-10-12T11:06+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0CTJ1DBTD",
-   "name": "Xiaomi Monitor G27i",
-   "price": 97.98,
-   "list_price": 169.99,
-   "discount": 42,
-   "cat": "monitor",
-   "cat_label": "🖥 Monitor",
-   "tag": "",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61PkkczRb6L._AC_SL1200_.jpg",
-   "link": "https://www.amazon.it/dp/B0CTJ1DBTD?tag=offerteloraes-21",
-   "ts": "2026-10-12T11:05+02:00",
    "channel": "tech"
   }
  ]
