@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T13:00+02:00",
+ "updated": "2026-10-14T19:00+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -210,23 +210,6 @@
    "image": "https://m.media-amazon.com/images/I/81S7C9rQp5L._AC_UL320_.jpg",
    "link": "https://www.amazon.it/dp/B073XPF4JD?tag=offerteloraes-21",
    "ts": "2026-10-13T21:53+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0FNWM7WP7",
-   "name": "Lefant M330 Pro Robot Aspirapolvere Lavapavimenti Anti-Groviglio, Nero",
-   "price": 139.97,
-   "list_price": 419.99,
-   "discount": 67,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "robotaspirapolvere",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71XS0VXxY-L._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0FNWM7WP7?tag=offerteloraes-21",
-   "ts": "2026-10-13T18:50+02:00",
    "channel": "tech"
   }
  ]
