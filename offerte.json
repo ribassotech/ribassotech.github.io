@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T20:47+02:00",
+ "updated": "2026-10-15T21:53+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0HKNGFZX3",
+   "name": "2026 Sports Cuffie Bluetooth 6.1 - Wireless Auricolari Clip Orecchio",
+   "price": 29.77,
+   "list_price": 129.99,
+   "discount": 77,
+   "cat": "audio",
+   "cat_label": "🎧 Audio",
+   "tag": "cuffie",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61V1tI271PL._AC_UL320_.jpg",
+   "link": "https://www.amazon.it/dp/B0HKNGFZX3?tag=offerteloraes-21",
+   "ts": "2026-10-15T21:53+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0FRRS6VRR",
    "name": "KNKA Purificatore d'Aria Filtro HEPA Sensore Intelligente fino 80m²",
