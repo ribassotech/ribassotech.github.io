@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T11:15+02:00",
+ "updated": "2026-10-16T15:33+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0GZTKP4W3",
+   "name": "Cuffie Wireless Bluetooth Over Ear, Cuscinetti Magnetici Rimovibili con 2 Set Extra, Con",
+   "price": 23.0,
+   "list_price": 39.0,
+   "discount": 41,
+   "cat": "audio",
+   "cat_label": "🎧 Audio",
+   "tag": "cuffie",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71lXhDuZPtL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0GZTKP4W3?tag=offerteloraes-21",
+   "ts": "2026-10-16T15:33+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B07XLML2YS",
    "name": "Tapo C200 FHD Telecamera WiFi Interno Videocamera Sorveglianza 360° PTZ",
