@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T10:32+02:00",
+ "updated": "2026-10-17T11:03+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -295,23 +295,6 @@
    "image": "https://m.media-amazon.com/images/I/51WzGloMN3L._AC_SL1000_.jpg",
    "link": "https://www.amazon.it/dp/B07XLML2YS?tag=offerteloraes-21",
    "ts": "2026-10-16T11:15+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B08QRPVW9S",
-   "name": "Tapo L510E Lampadina Smart WiFi E27 Luce Calda 806lm 9W Alexa Google",
-   "price": 13.99,
-   "list_price": 19.99,
-   "discount": 30,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "luci",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/516CEne8zSL._AC_SL1000_.jpg",
-   "link": "https://www.amazon.it/dp/B08QRPVW9S?tag=offerteloraes-21",
-   "ts": "2026-10-16T10:32+02:00",
    "channel": "tech"
   }
  ]
