@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T11:03+02:00",
+ "updated": "2026-10-17T11:43+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0HHF87FJ1",
+   "name": "Samsung Galaxy A18, 128GB, Light Blue [Versione Italiana]",
+   "price": 229.0,
+   "list_price": 289.0,
+   "discount": 21,
+   "cat": "smartphone",
+   "cat_label": "📱 Smartphone",
+   "tag": "galaxy",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61mRRgK5iwL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0HHF87FJ1?tag=offerteloraes-21",
+   "ts": "2026-10-17T11:43+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0CSS5W3JP",
    "name": "Smartwatch Uomo Donna Chiamate Bluetooth Smart Watch con Contapassi Cardiofrequenzimetro",
@@ -278,23 +295,6 @@
    "image": "https://m.media-amazon.com/images/I/71lXhDuZPtL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B0GZTKP4W3?tag=offerteloraes-21",
    "ts": "2026-10-16T15:33+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B07XLML2YS",
-   "name": "Tapo C200 FHD Telecamera WiFi Interno Videocamera Sorveglianza 360° PTZ",
-   "price": 23.99,
-   "list_price": 29.99,
-   "discount": 20,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "telecamera",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/51WzGloMN3L._AC_SL1000_.jpg",
-   "link": "https://www.amazon.it/dp/B07XLML2YS?tag=offerteloraes-21",
-   "ts": "2026-10-16T11:15+02:00",
    "channel": "tech"
   }
  ]
