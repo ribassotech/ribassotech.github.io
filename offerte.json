@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T11:03+02:00",
+ "updated": "2026-10-18T12:00+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -193,23 +193,6 @@
    "image": "https://m.media-amazon.com/images/I/61dEyzevnAL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B08CBJ8W9W?tag=offerteloraes-21",
    "ts": "2026-10-17T14:32+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0HHF87FJ1",
-   "name": "Samsung Galaxy A18, 128GB, Light Blue [Versione Italiana]",
-   "price": 229.0,
-   "list_price": 289.0,
-   "discount": 21,
-   "cat": "smartphone",
-   "cat_label": "📱 Smartphone",
-   "tag": "galaxy",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61mRRgK5iwL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0HHF87FJ1?tag=offerteloraes-21",
-   "ts": "2026-10-17T11:43+02:00",
    "channel": "tech"
   }
  ]
