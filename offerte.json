@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T10:32+02:00",
+ "updated": "2026-10-18T11:03+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -210,23 +210,6 @@
    "image": "https://m.media-amazon.com/images/I/61mRRgK5iwL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B0HHF87FJ1?tag=offerteloraes-21",
    "ts": "2026-10-17T11:43+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0CSS5W3JP",
-   "name": "Smartwatch Uomo Donna Chiamate Bluetooth Smart Watch con Contapassi Cardiofrequenzimetro",
-   "price": 28.48,
-   "list_price": 139.99,
-   "discount": 80,
-   "cat": "wearable",
-   "cat_label": "⌚ Smartwatch",
-   "tag": "",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61oteYMt8IL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0CSS5W3JP?tag=offerteloraes-21",
-   "ts": "2026-10-17T10:32+02:00",
    "channel": "tech"
   }
  ]
