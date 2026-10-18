@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T18:32+02:00",
+ "updated": "2026-10-18T20:15+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0FLJW9HHQ",
+   "name": "Set di 2 schede Wio Tracker L1 con batteria da 3000mAh e custodia",
+   "price": 48.18,
+   "list_price": null,
+   "discount": 52,
+   "cat": "maker",
+   "cat_label": "🛠 Maker e LoRa",
+   "tag": "lora",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71PyK9b8fTL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0FLJW9HHQ?tag=offerteloraes-21",
+   "ts": "2026-10-18T20:15+02:00",
+   "channel": "lora"
+  },
   {
    "asin": "B0H261K2KN",
    "name": "ASUS Vivobook 15 F1504MA#B0H261K2KN, Notebook con display 15.6\" IPS, Anti-glare",
