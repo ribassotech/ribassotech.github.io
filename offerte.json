@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T11:02+02:00",
+ "updated": "2026-10-19T11:03+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0FNWFXG2W",
+   "name": "Soundcore di Anker P31i Cuffie Bluetooth con Cancellazione Adattiva Rumore",
+   "price": 27.99,
+   "list_price": 69.99,
+   "discount": 60,
+   "cat": "audio",
+   "cat_label": "🎧 Audio",
+   "tag": "cuffie",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51lrl13ZY0L._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0FNWFXG2W?tag=offerteloraes-21",
+   "ts": "2026-10-19T11:03+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0G4M3HMGJ",
    "name": "GNCC Telecamera WiFi Esterna Senza Fili 2K 4MP con Pannello Solare",
