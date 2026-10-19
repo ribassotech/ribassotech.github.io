@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T18:32+02:00",
+ "updated": "2026-10-19T19:00+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -279,23 +279,6 @@
    "link": "https://www.amazon.it/dp/B0FLJW9HHQ?tag=offerteloraes-21",
    "ts": "2026-10-18T20:15+02:00",
    "channel": "lora"
-  },
-  {
-   "asin": "B0H261K2KN",
-   "name": "ASUS Vivobook 15 F1504MA#B0H261K2KN, Notebook con display 15.6\" IPS, Anti-glare",
-   "price": 599.0,
-   "list_price": 999.0,
-   "discount": 40,
-   "cat": "pc",
-   "cat_label": "💻 PC e notebook",
-   "tag": "notebook",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/615OgfYXCmL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0H261K2KN?tag=offerteloraes-21",
-   "ts": "2026-10-18T18:32+02:00",
-   "channel": "tech"
   }
  ]
 }
