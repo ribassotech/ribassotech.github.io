@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T18:03+02:00",
+ "updated": "2026-10-19T18:09+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B073FJ9X2J",
+   "name": "Charmast Power Bank 26800mAh, Ultra Sottile Caricatore Portatile Nero",
+   "price": 24.99,
+   "list_price": 33.99,
+   "discount": 26,
+   "cat": "ricarica",
+   "cat_label": "🔋 Accessori e ricarica",
+   "tag": "powerbank",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51Npb2GfnEL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B073FJ9X2J?tag=offerteloraes-21",
+   "ts": "2026-10-19T18:09+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0DHGH1QHW",
    "name": "ORICO 1 TB Magnetic Portable SSD, 4K 120 fps ProRes HDR Record and Store, USB3.2 Gen1",
