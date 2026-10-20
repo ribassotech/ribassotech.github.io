@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T10:32+02:00",
+ "updated": "2026-10-20T11:25+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0HKHRT871",
+   "name": "Blackview Smartwatch Uomo Donna, Effettua e Rispondi alle Chiamate,1,91'' Orologio",
+   "price": 29.99,
+   "list_price": 99.99,
+   "discount": 70,
+   "cat": "wearable",
+   "cat_label": "⌚ Smartwatch",
+   "tag": "",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": "5,00€",
+   "image": "https://m.media-amazon.com/images/I/714I2RW0rmL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0HKHRT871?tag=offerteloraes-21",
+   "ts": "2026-10-20T11:25+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0HKNGY8Q5",
    "name": "2026 Sports Cuffie Bluetooth 6.1 - Wireless Auricolari Clip Orecchio Elegante Auricolari",
@@ -278,23 +295,6 @@
    "image": "https://m.media-amazon.com/images/I/615mrVgNCFL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B0DHGH1QHW?tag=offerteloraes-21",
    "ts": "2026-10-19T14:33+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0FNWFXG2W",
-   "name": "Soundcore di Anker P31i Cuffie Bluetooth con Cancellazione Adattiva Rumore",
-   "price": 27.99,
-   "list_price": 69.99,
-   "discount": 60,
-   "cat": "audio",
-   "cat_label": "🎧 Audio",
-   "tag": "cuffie",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/51lrl13ZY0L._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0FNWFXG2W?tag=offerteloraes-21",
-   "ts": "2026-10-19T11:03+02:00",
    "channel": "tech"
   }
  ]
