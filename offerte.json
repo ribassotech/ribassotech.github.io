@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T10:02+02:00",
+ "updated": "2026-10-20T10:32+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0HKNGY8Q5",
+   "name": "2026 Sports Cuffie Bluetooth 6.1 - Wireless Auricolari Clip Orecchio Elegante Auricolari",
+   "price": 29.77,
+   "list_price": 129.99,
+   "discount": 77,
+   "cat": "audio",
+   "cat_label": "🎧 Audio",
+   "tag": "cuffie",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": "3,00€",
+   "image": "https://m.media-amazon.com/images/I/71jjeKzKpBL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0HKNGY8Q5?tag=offerteloraes-21",
+   "ts": "2026-10-20T10:32+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B07XQZWRL7",
    "name": "KOOTION Scheda Micro SD da 256 GB di Memoria SDXC UHS-I Velocità fino a 90",
