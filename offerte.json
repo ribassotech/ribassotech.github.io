@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T15:00+02:00",
+ "updated": "2026-10-20T18:32+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0FZK8LMFM",
+   "name": "SoundPEATS Cove Pro Cuffie Bluetooth 6.0 Over-Ear, ANC Ibrido Fino a -56dB con 5",
+   "price": 43.31,
+   "list_price": 79.99,
+   "discount": 46,
+   "cat": "audio",
+   "cat_label": "🎧 Audio",
+   "tag": "cuffie",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/718Lyg44dgL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0FZK8LMFM?tag=offerteloraes-21",
+   "ts": "2026-10-20T18:32+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0HBD524RW",
    "name": "De'Longhi Classic - Macchina da Caffè Espresso Montalatte Manuale Grigio",
@@ -278,23 +295,6 @@
    "image": "https://m.media-amazon.com/images/I/71yB5rtCUUL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B0G81QZ5WQ?tag=offerteloraes-21",
    "ts": "2026-10-19T18:32+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B073FJ9X2J",
-   "name": "Charmast Power Bank 26800mAh, Ultra Sottile Caricatore Portatile Nero",
-   "price": 24.99,
-   "list_price": 33.99,
-   "discount": 26,
-   "cat": "ricarica",
-   "cat_label": "🔋 Accessori e ricarica",
-   "tag": "powerbank",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/51Npb2GfnEL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B073FJ9X2J?tag=offerteloraes-21",
-   "ts": "2026-10-19T18:09+02:00",
    "channel": "tech"
   }
  ]
