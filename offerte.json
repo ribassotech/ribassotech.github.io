@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T14:32+02:00",
+ "updated": "2026-10-20T15:00+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -295,23 +295,6 @@
    "image": "https://m.media-amazon.com/images/I/51Npb2GfnEL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B073FJ9X2J?tag=offerteloraes-21",
    "ts": "2026-10-19T18:09+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0DHGH1QHW",
-   "name": "ORICO 1 TB Magnetic Portable SSD, 4K 120 fps ProRes HDR Record and Store, USB3.2 Gen1",
-   "price": 139.99,
-   "list_price": 199.99,
-   "discount": 30,
-   "cat": "storage",
-   "cat_label": "🧩 SSD e memorie",
-   "tag": "ssd",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/615mrVgNCFL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0DHGH1QHW?tag=offerteloraes-21",
-   "ts": "2026-10-19T14:33+02:00",
    "channel": "tech"
   }
  ]
