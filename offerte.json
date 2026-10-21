@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T14:32+02:00",
+ "updated": "2026-10-21T15:00+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -261,23 +261,6 @@
    "image": "https://m.media-amazon.com/images/I/718Lyg44dgL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B0FZK8LMFM?tag=offerteloraes-21",
    "ts": "2026-10-20T18:32+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0HBD524RW",
-   "name": "De'Longhi Classic - Macchina da Caffè Espresso Montalatte Manuale Grigio",
-   "price": 109.0,
-   "list_price": 149.9,
-   "discount": 27,
-   "cat": "cucina",
-   "cat_label": "🍳 Elettrodomestici cucina",
-   "tag": "caffe",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61JrfV2cdBL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0HBD524RW?tag=offerteloraes-21",
-   "ts": "2026-10-20T14:32+02:00",
    "channel": "tech"
   }
  ]
