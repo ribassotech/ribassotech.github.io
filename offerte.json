@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T19:00+02:00",
+ "updated": "2026-10-21T21:46+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0DJ8XG1CJ",
+   "name": "BEKO Deumidificatore BDP016, 16L/giorno",
+   "price": 109.9,
+   "list_price": 219.99,
+   "discount": 50,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "deumidificatore",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51gYUfhc9NL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0DJ8XG1CJ?tag=offerteloraes-21",
+   "ts": "2026-10-21T21:46+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0H75QHRQ8",
    "name": "IOWODO Smartwatch Uomo Donna con Chiamate Bluetooth",
