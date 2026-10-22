@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T21:53+02:00",
+ "updated": "2026-10-22T22:00+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -312,74 +312,6 @@
    "image": "https://m.media-amazon.com/images/I/714PwqGRVzL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B0CP42QVT8?tag=offerteloraes-21",
    "ts": "2026-10-22T07:11+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0GYS37JM1",
-   "name": "Samsung Galaxy A27 5G, 128GB, RAM 6GB, Blue [Versione Italiana]",
-   "price": 249.0,
-   "list_price": 389.0,
-   "discount": 36,
-   "cat": "smartphone",
-   "cat_label": "📱 Smartphone",
-   "tag": "galaxy",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61RLB7WmNHL._AC_UL320_.jpg",
-   "link": "https://www.amazon.it/dp/B0GYS37JM1?tag=offerteloraes-21",
-   "ts": "2026-10-21T21:54+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0GMHZCCH3",
-   "name": "Samsung Galaxy A57 5G, 256GB, Awesome Lilac [Versione Italiana]",
-   "price": 449.0,
-   "list_price": 679.0,
-   "discount": 34,
-   "cat": "smartphone",
-   "cat_label": "📱 Smartphone",
-   "tag": "galaxy",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61QH9BVKz7L._AC_UL320_.jpg",
-   "link": "https://www.amazon.it/dp/B0GMHZCCH3?tag=offerteloraes-21",
-   "ts": "2026-10-21T21:54+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0GMHQWVL2",
-   "name": "Samsung Galaxy A57 5G, 256GB, Awesome Navy [Versione Italiana]",
-   "price": 449.0,
-   "list_price": 679.0,
-   "discount": 34,
-   "cat": "smartphone",
-   "cat_label": "📱 Smartphone",
-   "tag": "galaxy",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61pnoDqmz4L._AC_UL320_.jpg",
-   "link": "https://www.amazon.it/dp/B0GMHQWVL2?tag=offerteloraes-21",
-   "ts": "2026-10-21T21:54+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0FKYGXBDK",
-   "name": "Samsung Galaxy S25 Edge 256GB TITANIUM JETBLACK",
-   "price": 529.0,
-   "list_price": 906.75,
-   "discount": 42,
-   "cat": "smartphone",
-   "cat_label": "📱 Smartphone",
-   "tag": "galaxy",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/8114lIDC1RL._AC_UL320_.jpg",
-   "link": "https://www.amazon.it/dp/B0FKYGXBDK?tag=offerteloraes-21",
-   "ts": "2026-10-21T21:54+02:00",
    "channel": "tech"
   }
  ]
