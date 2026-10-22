@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T18:02+02:00",
+ "updated": "2026-10-22T18:32+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0FB3M3M77",
+   "name": "Lefant M2L Plus Robot Aspirapolvere Lavapavimenti con Mappatura, 6000 Pa",
+   "price": 179.99,
+   "list_price": 499.99,
+   "discount": 64,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "robotaspirapolvere",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71-n4dr+boL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0FB3M3M77?tag=offerteloraes-21",
+   "ts": "2026-10-22T18:32+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B07T99CGDF",
    "name": "Samsung EP-DA705BBEGWW Cavo USB Type-C, 1 m, 60 W, Nero",
