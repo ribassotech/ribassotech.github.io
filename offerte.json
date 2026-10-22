@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T07:11+02:00",
+ "updated": "2026-10-22T14:33+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0GGCDV1Q1",
+   "name": "Google Pixel 10a - 7 anni di nuovi aggiornamenti e funzionalità, oltre 30 ore di",
+   "price": 399.0,
+   "list_price": 549.0,
+   "discount": 27,
+   "cat": "smartphone",
+   "cat_label": "📱 Smartphone",
+   "tag": "pixel",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/610ZiBxq7bL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0GGCDV1Q1?tag=offerteloraes-21",
+   "ts": "2026-10-22T14:33+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0CP42QVT8",
    "name": "Samsung 990 EVO 2TB SSD NVMe",
@@ -176,23 +193,6 @@
    "image": "https://m.media-amazon.com/images/I/51gYUfhc9NL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B0DJ8XG1CJ?tag=offerteloraes-21",
    "ts": "2026-10-21T21:46+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0H75QHRQ8",
-   "name": "IOWODO Smartwatch Uomo Donna con Chiamate Bluetooth",
-   "price": 25.99,
-   "list_price": 99.99,
-   "discount": 74,
-   "cat": "wearable",
-   "cat_label": "⌚ Smartwatch",
-   "tag": "",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71fmJEIxpIL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0H75QHRQ8?tag=offerteloraes-21",
-   "ts": "2026-10-21T14:32+02:00",
    "channel": "tech"
   }
  ]
