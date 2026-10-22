@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T18:32+02:00",
+ "updated": "2026-10-22T18:33+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0B6CKMLQH",
+   "name": "Tapo L630 Lampadina Smart WiFi GU10 RGBW Multicolore 350lm 3.5W Alexa",
+   "price": 10.99,
+   "list_price": 14.99,
+   "discount": 27,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "luci",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61xgY8HOTfL._AC_SL1000_.jpg",
+   "link": "https://www.amazon.it/dp/B0B6CKMLQH?tag=offerteloraes-21",
+   "ts": "2026-10-22T18:33+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0FB3M3M77",
    "name": "Lefant M2L Plus Robot Aspirapolvere Lavapavimenti con Mappatura, 6000 Pa",
