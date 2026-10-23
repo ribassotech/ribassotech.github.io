@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T14:33+02:00",
+ "updated": "2026-10-23T15:00+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -295,23 +295,6 @@
    "image": "https://m.media-amazon.com/images/I/61jmtmDUR1L._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B07T99CGDF?tag=offerteloraes-21",
    "ts": "2026-10-22T16:28+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0GGCDV1Q1",
-   "name": "Google Pixel 10a - 7 anni di nuovi aggiornamenti e funzionalità, oltre 30 ore di",
-   "price": 399.0,
-   "list_price": 549.0,
-   "discount": 27,
-   "cat": "smartphone",
-   "cat_label": "📱 Smartphone",
-   "tag": "pixel",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/610ZiBxq7bL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0GGCDV1Q1?tag=offerteloraes-21",
-   "ts": "2026-10-22T14:33+02:00",
    "channel": "tech"
   }
  ]
