@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T15:00+02:00",
+ "updated": "2026-10-23T17:00+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -278,23 +278,6 @@
    "image": "https://m.media-amazon.com/images/I/71-n4dr+boL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B0FB3M3M77?tag=offerteloraes-21",
    "ts": "2026-10-22T18:32+02:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B07T99CGDF",
-   "name": "Samsung EP-DA705BBEGWW Cavo USB Type-C, 1 m, 60 W, Nero",
-   "price": 7.5,
-   "list_price": 12.9,
-   "discount": 42,
-   "cat": "ricarica",
-   "cat_label": "🔋 Accessori e ricarica",
-   "tag": "cavi",
-   "deal": "low",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61jmtmDUR1L._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B07T99CGDF?tag=offerteloraes-21",
-   "ts": "2026-10-22T16:28+02:00",
    "channel": "tech"
   }
  ]
