@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T11:33+02:00",
+ "updated": "2026-10-24T14:33+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0HCP4HGB2",
+   "name": "Deumidificatore Casa 12L/24h,Deumidificatore Portatile Silenzioso 100m³/40㎡",
+   "price": 102.88,
+   "list_price": 159.99,
+   "discount": 36,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "deumidificatore",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61w0Uv1XsuL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0HCP4HGB2?tag=offerteloraes-21",
+   "ts": "2026-10-24T14:33+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0GGHWD5FV",
    "name": "Motorola moto g06 (8/256GB, Fotocamera 50MP+flicker cam, selfie 8MP",
