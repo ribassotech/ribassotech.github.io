@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T10:32+02:00",
+ "updated": "2026-10-24T11:33+02:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0GGHWD5FV",
+   "name": "Motorola moto g06 (8/256GB, Fotocamera 50MP+flicker cam, selfie 8MP",
+   "price": 147.84,
+   "list_price": 189.9,
+   "discount": 22,
+   "cat": "smartphone",
+   "cat_label": "📱 Smartphone",
+   "tag": "motorola",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71KngzE1hBL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0GGHWD5FV?tag=offerteloraes-21",
+   "ts": "2026-10-24T11:33+02:00",
+   "channel": "tech"
+  },
   {
    "asin": "B087DFLF9S",
    "name": "Samsung MU-PC1T0T/WW T7 - SSD Esterno Portatile da 1 TB, USB 3.2 Gen 2, 10 Gbps, Tipo-C",
