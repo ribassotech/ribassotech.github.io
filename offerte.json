@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T12:00+01:00",
+ "updated": "2026-10-25T14:13+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0F4548TCQ",
+   "name": "XIAOMI TV F 32 2025, 32 pollici (81 cm), HD, Smart TV, Fire TV,Triple Tuner",
+   "price": 139.0,
+   "list_price": 149.0,
+   "discount": 7,
+   "cat": "tv",
+   "cat_label": "📺 TV",
+   "tag": "",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51wcO-HYNkL._AC_SL1000_.jpg",
+   "link": "https://www.amazon.it/dp/B0F4548TCQ?tag=offerteloraes-21",
+   "ts": "2026-10-25T14:13+01:00",
+   "channel": "tv"
+  },
   {
    "asin": "B0GMS4VYVT",
    "name": "Samsung Scheda di Memoria MicroSD T7 da 256 GB, Scheda di Memoria per Smartphone, Tablet",
