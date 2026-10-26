@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T18:04+01:00",
+ "updated": "2026-10-26T18:32+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0HHH3G583",
+   "name": "AcclaFit Smartwatch Uomo Donna, 1.85\" Orologio Smartwatch con Effettua/Risposta Chiamate",
+   "price": 39.99,
+   "list_price": 149.99,
+   "discount": 73,
+   "cat": "wearable",
+   "cat_label": "⌚ Smartwatch",
+   "tag": "",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61JmvodfjoL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0HHH3G583?tag=offerteloraes-21",
+   "ts": "2026-10-26T18:32+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0CVRWRZ5S",
    "name": "Lenovo 68W USB-C GaN Wall Charger, alimentatore da parete USB-C PD 68W con Cavo 1,5m 6A",
