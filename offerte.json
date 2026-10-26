@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T21:54+01:00",
+ "updated": "2026-10-26T21:58+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,40 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0GX1QQ7S6",
+   "name": "Samsung Smart TV 65\" UE65M80HAUXZT Mini LED 4K , HDR 10+, Motion",
+   "price": 625.0,
+   "list_price": 899.0,
+   "discount": 30,
+   "cat": "tv",
+   "cat_label": "📺 TV",
+   "tag": "",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71TyCRbWCBL._AC_UL320_.jpg",
+   "link": "https://www.amazon.it/dp/B0GX1QQ7S6?tag=offerteloraes-21",
+   "ts": "2026-10-26T21:58+01:00",
+   "channel": "tv"
+  },
+  {
+   "asin": "B0GX1JTQZM",
+   "name": "Samsung Smart TV 55\" UE55M80HAUXZT Mini LED 4K , HDR 10+, Motion",
+   "price": 499.0,
+   "list_price": 699.0,
+   "discount": 29,
+   "cat": "tv",
+   "cat_label": "📺 TV",
+   "tag": "",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71KTYennYvL._AC_UL320_.jpg",
+   "link": "https://www.amazon.it/dp/B0GX1JTQZM?tag=offerteloraes-21",
+   "ts": "2026-10-26T21:58+01:00",
+   "channel": "tv"
+  },
   {
    "asin": "B0DPL2XFY3",
    "name": "Samsung Galaxy S25 Ultra Smartphone AI, 3 anni di Garanzia del produttore",
