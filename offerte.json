@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T14:26+01:00",
+ "updated": "2026-10-26T14:29+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0GXVZGXT8",
+   "name": "UGREEN Zapix Caricatore USB C 45W PPS Ricarica Rapida iPhone con Cavo 1.5M",
+   "price": 16.99,
+   "list_price": 23.99,
+   "discount": 29,
+   "cat": "ricarica",
+   "cat_label": "🔋 Accessori e ricarica",
+   "tag": "caricatore",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/515XgpmJf6L._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0GXVZGXT8?tag=offerteloraes-21",
+   "ts": "2026-10-26T14:29+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0H7X9YB8V",
    "name": "Paekole Auricolari Cuffie Open Ear Bluetooth 6.1 Wireless Sport Senza Filo",
