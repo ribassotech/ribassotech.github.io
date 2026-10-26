@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T15:00+01:00",
+ "updated": "2026-10-26T18:04+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0CVRWRZ5S",
+   "name": "Lenovo 68W USB-C GaN Wall Charger, alimentatore da parete USB-C PD 68W con Cavo 1,5m 6A",
+   "price": 25.23,
+   "list_price": 34.99,
+   "discount": 28,
+   "cat": "ricarica",
+   "cat_label": "🔋 Accessori e ricarica",
+   "tag": "caricatore",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51TJ-65aZKL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0CVRWRZ5S?tag=offerteloraes-21",
+   "ts": "2026-10-26T18:04+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0FXXBM47G",
    "name": "Lefant M5 Pro Robot Aspirapolvere Lavapavimenti con Rullo 23.000Pa",
