@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T18:57+01:00",
+ "updated": "2026-10-27T21:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -466,23 +466,6 @@
    "link": "https://www.amazon.it/dp/B0FBL2TH1L?tag=offerteloraes-21",
    "ts": "2026-10-26T21:54+01:00",
    "channel": "tech"
-  },
-  {
-   "asin": "B0BX8Q2MJP",
-   "name": "LILYGO T-Display-S3 ESP32-S3 1.9\" ST7789 LCD Display TTGO Development",
-   "price": 17.0,
-   "list_price": 23.0,
-   "discount": 26,
-   "cat": "maker",
-   "cat_label": "🛠 Maker e LoRa",
-   "tag": "lora",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/51cEOH0Gr8L._AC_SL1000_.jpg",
-   "link": "https://www.amazon.it/dp/B0BX8Q2MJP?tag=offerteloraes-21",
-   "ts": "2026-10-26T20:41+01:00",
-   "channel": "lora"
   }
  ]
 }
