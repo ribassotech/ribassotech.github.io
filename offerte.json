@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T15:00+01:00",
+ "updated": "2026-10-27T18:33+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B098R4D4LB",
+   "name": "SHANNA Deumidificatore, Deumidificatore Portatile, 15L/24H, Serbatoio 2L, Basso Rumore",
+   "price": 108.32,
+   "list_price": 149.9,
+   "discount": 28,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "deumidificatore",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51oH+nMJ4uL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B098R4D4LB?tag=offerteloraes-21",
+   "ts": "2026-10-27T18:33+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0HKNC9WJD",
    "name": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh",
@@ -449,40 +466,6 @@
    "link": "https://www.amazon.it/dp/B0BX8Q2MJP?tag=offerteloraes-21",
    "ts": "2026-10-26T20:41+01:00",
    "channel": "lora"
-  },
-  {
-   "asin": "B0HHH3G583",
-   "name": "AcclaFit Smartwatch Uomo Donna, 1.85\" Orologio Smartwatch con Effettua/Risposta Chiamate",
-   "price": 39.99,
-   "list_price": 149.99,
-   "discount": 73,
-   "cat": "wearable",
-   "cat_label": "⌚ Smartwatch",
-   "tag": "",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61JmvodfjoL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0HHH3G583?tag=offerteloraes-21",
-   "ts": "2026-10-26T18:32+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0CVRWRZ5S",
-   "name": "Lenovo 68W USB-C GaN Wall Charger, alimentatore da parete USB-C PD 68W con Cavo 1,5m 6A",
-   "price": 25.23,
-   "list_price": 34.99,
-   "discount": 28,
-   "cat": "ricarica",
-   "cat_label": "🔋 Accessori e ricarica",
-   "tag": "caricatore",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/51TJ-65aZKL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0CVRWRZ5S?tag=offerteloraes-21",
-   "ts": "2026-10-26T18:04+01:00",
-   "channel": "tech"
   }
  ]
 }
