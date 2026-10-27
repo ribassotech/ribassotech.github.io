@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T21:58+01:00",
+ "updated": "2026-10-27T10:32+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0FP2HTVYR",
+   "name": "Cecotec Macchina da Caffè Superautomatica Compatta Cremmaet Cube. 1350W, Sistema",
+   "price": 169.0,
+   "list_price": 228.99,
+   "discount": 26,
+   "cat": "cucina",
+   "cat_label": "🍳 Elettrodomestici cucina",
+   "tag": "caffe",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71UAkdsAiwL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0FP2HTVYR?tag=offerteloraes-21",
+   "ts": "2026-10-27T10:32+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0GX1QQ7S6",
    "name": "Samsung Smart TV 65\" UE65M80HAUXZT Mini LED 4K , HDR 10+, Motion",
