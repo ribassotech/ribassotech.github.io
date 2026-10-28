@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T11:00+01:00",
+ "updated": "2026-10-28T14:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -261,23 +261,6 @@
    "image": "https://m.media-amazon.com/images/I/51oH+nMJ4uL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B098R4D4LB?tag=offerteloraes-21",
    "ts": "2026-10-27T18:33+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0HKNC9WJD",
-   "name": "Tablet Android da 11 Pollici, Octa-Core, 24GB(4+20) RAM+128GB Memoria, Batteria 8200mAh",
-   "price": 85.49,
-   "list_price": 139.99,
-   "discount": 39,
-   "cat": "tablet",
-   "cat_label": "📲 Tablet",
-   "tag": "",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61PW9yxhUsL._AC_SL1024_.jpg",
-   "link": "https://www.amazon.it/dp/B0HKNC9WJD?tag=offerteloraes-21",
-   "ts": "2026-10-27T13:16+01:00",
    "channel": "tech"
   }
  ]
