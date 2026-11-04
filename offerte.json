@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:53+01:00",
+ "updated": "2026-11-04T21:57+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,40 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0F9P7XP9J",
+   "name": "ECHTPower Controller per PC/Switch, 1000Hz Polling Rate, 3 modalità",
+   "price": 23.46,
+   "list_price": 39.99,
+   "discount": 41,
+   "cat": "ricarica",
+   "cat_label": "🔋 Accessori e ricarica",
+   "tag": "",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61U-NEnC6zL._AC_UL320_.jpg",
+   "link": "https://www.amazon.it/dp/B0F9P7XP9J?tag=offerteloraes-21",
+   "ts": "2026-11-04T21:57+01:00",
+   "channel": "tv"
+  },
+  {
+   "asin": "B0HKV684GP",
+   "name": "ECHTPower Upgrade Controller per P4, Porta Type-C, Pulsanti Posteriori",
+   "price": 18.94,
+   "list_price": 28.99,
+   "discount": 35,
+   "cat": "ricarica",
+   "cat_label": "🔋 Accessori e ricarica",
+   "tag": "",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71M9COwAUbL._AC_UL320_.jpg",
+   "link": "https://www.amazon.it/dp/B0HKV684GP?tag=offerteloraes-21",
+   "ts": "2026-11-04T21:57+01:00",
+   "channel": "tv"
+  },
   {
    "asin": "B08CGCJDHX",
    "name": "KOOTION 128GB Scheda di Memoria Micro SD U1 A1 4K Scheda MicroSDXC 128",
