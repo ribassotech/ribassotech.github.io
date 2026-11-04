@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T13:25+01:00",
+ "updated": "2026-11-04T16:55+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -58,23 +58,5 @@
    "label": "🛠 Maker e LoRa"
   }
  ],
- "offers": [
-  {
-   "asin": "B0F8VBW7J6",
-   "name": "868MHz Antenna LoRa 5 dBi/50 Ω/VSWR <1,5/195 mm SMA Maschio + Cavo da",
-   "price": 6.99,
-   "list_price": 8.99,
-   "discount": 22,
-   "cat": "maker",
-   "cat_label": "🛠 Maker e LoRa",
-   "tag": "lora",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/51FTXld69AL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0F8VBW7J6?tag=offerteloraes-21",
-   "ts": "2026-11-02T13:25+01:00",
-   "channel": "lora"
-  }
- ]
+ "offers": []
 }
