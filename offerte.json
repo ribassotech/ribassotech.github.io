@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T18:14+01:00",
+ "updated": "2026-11-04T18:32+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0CGQ466W8",
+   "name": "Samsung Memorie T9 MU-PG1T0B SSD Esterno Portatile da 1TB, USB 3.2 Gen 2x2, 20 Gbps, Nero",
+   "price": 189.0,
+   "list_price": 319.9,
+   "discount": 41,
+   "cat": "storage",
+   "cat_label": "🧩 SSD e memorie",
+   "tag": "ssd",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51lKJosG6mL._AC_SL1004_.jpg",
+   "link": "https://www.amazon.it/dp/B0CGQ466W8?tag=offerteloraes-21",
+   "ts": "2026-11-04T18:32+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B095HJY2JJ",
    "name": "Cecotec - Deumidificatore Big Dry 4000 Expert. Timer 24 h, silenzioso indicatore LED",
