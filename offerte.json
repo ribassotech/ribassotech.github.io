@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T16:57+01:00",
+ "updated": "2026-11-04T18:14+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B095HJY2JJ",
+   "name": "Cecotec - Deumidificatore Big Dry 4000 Expert. Timer 24 h, silenzioso indicatore LED",
+   "price": 85.99,
+   "list_price": 119.0,
+   "discount": 28,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "deumidificatore",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51AarGj1FhS._AC_SL1000_.jpg",
+   "link": "https://www.amazon.it/dp/B095HJY2JJ?tag=offerteloraes-21",
+   "ts": "2026-11-04T18:14+01:00",
+   "channel": "tv"
+  },
   {
    "asin": "B0BVVWBPRR",
    "name": "Ariete 4626 Friggitrice ad aria 6L, 1300 W, Capacità 6L, Capacità di cottura 2,5kg, 8",
