@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T18:32+01:00",
+ "updated": "2026-11-04T21:53+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,40 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B08CGCJDHX",
+   "name": "KOOTION 128GB Scheda di Memoria Micro SD U1 A1 4K Scheda MicroSDXC 128",
+   "price": 22.22,
+   "list_price": 29.99,
+   "discount": 26,
+   "cat": "storage",
+   "cat_label": "🧩 SSD e memorie",
+   "tag": "microsd",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61O7yAGgOXL._AC_UL320_.jpg",
+   "link": "https://www.amazon.it/dp/B08CGCJDHX?tag=offerteloraes-21",
+   "ts": "2026-11-04T21:53+01:00",
+   "channel": "tech"
+  },
+  {
+   "asin": "B0833WZ8NT",
+   "name": "Netac 128Go Scheda Micro SD, Scheda di Memoria A1, U3, C10, V30, 4K, 667X",
+   "price": 19.1,
+   "list_price": 26.98,
+   "discount": 29,
+   "cat": "storage",
+   "cat_label": "🧩 SSD e memorie",
+   "tag": "microsd",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61reR1Z5yAL._AC_UL320_.jpg",
+   "link": "https://www.amazon.it/dp/B0833WZ8NT?tag=offerteloraes-21",
+   "ts": "2026-11-04T21:53+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0CGQ466W8",
    "name": "Samsung Memorie T9 MU-PG1T0B SSD Esterno Portatile da 1TB, USB 3.2 Gen 2x2, 20 Gbps, Nero",
