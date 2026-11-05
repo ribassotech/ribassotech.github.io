@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:33+01:00",
+ "updated": "2026-11-05T17:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -483,23 +483,6 @@
    "link": "https://www.amazon.it/dp/B095HJY2JJ?tag=offerteloraes-21",
    "ts": "2026-11-04T18:14+01:00",
    "channel": "tv"
-  },
-  {
-   "asin": "B0BVVWBPRR",
-   "name": "Ariete 4626 Friggitrice ad aria 6L, 1300 W, Capacità 6L, Capacità di cottura 2,5kg, 8",
-   "price": 61.99,
-   "list_price": 79.9,
-   "discount": 22,
-   "cat": "cucina",
-   "cat_label": "🍳 Elettrodomestici cucina",
-   "tag": "friggitrice",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71Ob3awWlqL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0BVVWBPRR?tag=offerteloraes-21",
-   "ts": "2026-11-04T16:57+01:00",
-   "channel": "tech"
   }
  ]
 }
