@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T12:33+01:00",
+ "updated": "2026-11-05T14:33+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0HNJYRZL4",
+   "name": "2026 Cuffie Bluetooth 6.1 Sport, Auricolari Bluetooth con 6D Bass Stereo, 120 Ore Cuffie",
+   "price": 26.99,
+   "list_price": 129.99,
+   "discount": 79,
+   "cat": "audio",
+   "cat_label": "🎧 Audio",
+   "tag": "cuffie",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71KWnLQdAyL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0HNJYRZL4?tag=offerteloraes-21",
+   "ts": "2026-11-05T14:33+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B01LQE4ZS6",
    "name": "Lamicall Supporto Telefono, Dock Telefono - Universale Supporto Cellulare Scrivania per",
