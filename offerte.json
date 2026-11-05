@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T22:00+01:00",
+ "updated": "2026-11-05T23:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -313,23 +313,6 @@
    "link": "https://www.amazon.it/dp/B0G7VTTK9S?tag=offerteloraes-21",
    "ts": "2026-11-05T10:33+01:00",
    "channel": "tech"
-  },
-  {
-   "asin": "B0GQZP2PTK",
-   "name": "HP OMEN, Notebook Gaming, 16\", NVIDIA RTX 5070 8GB",
-   "price": 1349.0,
-   "list_price": null,
-   "discount": null,
-   "cat": "pc",
-   "cat_label": "💻 PC e notebook",
-   "tag": "notebook",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71OmdVPwxeL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0GQZP2PTK?tag=offerteloraes-21",
-   "ts": "2026-11-04T22:16+01:00",
-   "channel": "tv"
   }
  ]
 }
