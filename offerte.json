@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:33+01:00",
+ "updated": "2026-11-06T13:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -329,23 +329,6 @@
    "image": "https://m.media-amazon.com/images/I/71KWnLQdAyL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B0HNJYRZL4?tag=offerteloraes-21",
    "ts": "2026-11-05T14:33+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B01LQE4ZS6",
-   "name": "Lamicall Supporto Telefono, Dock Telefono - Universale Supporto Cellulare Scrivania per",
-   "price": 9.99,
-   "list_price": 15.99,
-   "discount": 38,
-   "cat": "ricarica",
-   "cat_label": "🔋 Accessori e ricarica",
-   "tag": "supporti",
-   "deal": "low",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61pQ-xFrfFL._AC_SL1300_.jpg",
-   "link": "https://www.amazon.it/dp/B01LQE4ZS6?tag=offerteloraes-21",
-   "ts": "2026-11-05T12:33+01:00",
    "channel": "tech"
   }
  ]
