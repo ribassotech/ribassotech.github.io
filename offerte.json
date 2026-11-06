@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:04+01:00",
+ "updated": "2026-11-06T18:33+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0HJBSKR1Z",
+   "name": "Smartwatch Uomo, 1.43\" HD AMOLED Orologio Smartwatch con Chiamate e Whatsapp, 130+",
+   "price": 35.99,
+   "list_price": 139.99,
+   "discount": 74,
+   "cat": "wearable",
+   "cat_label": "⌚ Smartwatch",
+   "tag": "",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/715v2JQeH-L._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0HJBSKR1Z?tag=offerteloraes-21",
+   "ts": "2026-11-06T18:33+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0CJM1SGN1",
    "name": "BMAX Mini Pc 6 GB RAM 128 GB eMMC Intel Celeron J3355 (fino a 2,5 GHz)",
@@ -330,23 +347,6 @@
    "link": "https://www.amazon.it/dp/B09BC19WCY?tag=offerteloraes-21",
    "ts": "2026-11-05T18:33+01:00",
    "channel": "tech"
-  },
-  {
-   "asin": "B0CKXSYYH2",
-   "name": "Tapo L535E Lampadina Smart Matter E27 Multicolore 1055lm 75W Alexa Google",
-   "price": 9.99,
-   "list_price": 14.99,
-   "discount": 33,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "luci",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/51XHvZ03SjL._AC_SL1000_.jpg",
-   "link": "https://www.amazon.it/dp/B0CKXSYYH2?tag=offerteloraes-21",
-   "ts": "2026-11-05T18:07+01:00",
-   "channel": "tv"
   }
  ]
 }
