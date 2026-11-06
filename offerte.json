@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T18:33+01:00",
+ "updated": "2026-11-06T19:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -329,23 +329,6 @@
    "image": "https://m.media-amazon.com/images/I/61v4w9AnKOL._AC_UL320_.jpg",
    "link": "https://www.amazon.it/dp/B0DM9QZKJJ?tag=offerteloraes-21",
    "ts": "2026-11-05T21:53+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B09BC19WCY",
-   "name": "Aspirapolvere Senza Filo 55KPA 650W 70Mins,Scopa Elettrica Senza Fili",
-   "price": 126.34,
-   "list_price": 209.99,
-   "discount": 40,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "aspirapolvere",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61sFPUYozHL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B09BC19WCY?tag=offerteloraes-21",
-   "ts": "2026-11-05T18:33+01:00",
    "channel": "tech"
   }
  ]
