@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T15:00+01:00",
+ "updated": "2026-11-07T19:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -193,40 +193,6 @@
    "image": "https://m.media-amazon.com/images/I/71Som7s+cOL._AC_UL320_.jpg",
    "link": "https://www.amazon.it/dp/B0FSL7464N?tag=offerteloraes-21",
    "ts": "2026-11-06T21:56+01:00",
-   "channel": "tv"
-  },
-  {
-   "asin": "B0HJBSKR1Z",
-   "name": "Smartwatch Uomo, 1.43\" HD AMOLED Orologio Smartwatch con Chiamate e Whatsapp, 130+",
-   "price": 35.99,
-   "list_price": 139.99,
-   "discount": 74,
-   "cat": "wearable",
-   "cat_label": "⌚ Smartwatch",
-   "tag": "",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/715v2JQeH-L._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0HJBSKR1Z?tag=offerteloraes-21",
-   "ts": "2026-11-06T18:33+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0CJM1SGN1",
-   "name": "BMAX Mini Pc 6 GB RAM 128 GB eMMC Intel Celeron J3355 (fino a 2,5 GHz)",
-   "price": 169.99,
-   "list_price": 219.0,
-   "discount": 22,
-   "cat": "pc",
-   "cat_label": "💻 PC e notebook",
-   "tag": "minipc",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61AOaMdkSHL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0CJM1SGN1?tag=offerteloraes-21",
-   "ts": "2026-11-06T18:04+01:00",
    "channel": "tv"
   }
  ]
