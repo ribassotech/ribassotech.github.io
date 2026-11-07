@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T11:03+01:00",
+ "updated": "2026-11-07T11:04+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0BM42X58C",
+   "name": "Samsung Memorie MZ-V9P1T0C 990 PRO SSD Interno con Dissipatore di Calore da 1TB",
+   "price": 209.99,
+   "list_price": 379.9,
+   "discount": 45,
+   "cat": "storage",
+   "cat_label": "🧩 SSD e memorie",
+   "tag": "ssd",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51P37HmwbIL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0BM42X58C?tag=offerteloraes-21",
+   "ts": "2026-11-07T11:04+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0CFFFWRH7",
    "name": "GNCC GT1Pro Telecamera WiFi Esterno 2K Fissa, Videocamera Sorveglianza IP65",
