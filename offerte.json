@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T19:00+01:00",
+ "updated": "2026-11-07T22:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -109,91 +109,6 @@
    "link": "https://www.amazon.it/dp/B0CFFFWRH7?tag=offerteloraes-21",
    "ts": "2026-11-07T10:32+01:00",
    "channel": "tech"
-  },
-  {
-   "asin": "B0GM1TVSMG",
-   "name": "Hisense Smart TV QLED 55\" 4K 55E7DS",
-   "price": 358.54,
-   "list_price": 449.0,
-   "discount": 20,
-   "cat": "tv",
-   "cat_label": "📺 TV",
-   "tag": "",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71FALmHAB4L._AC_UL320_.jpg",
-   "link": "https://www.amazon.it/dp/B0GM1TVSMG?tag=offerteloraes-21",
-   "ts": "2026-11-06T21:56+01:00",
-   "channel": "tv"
-  },
-  {
-   "asin": "B0GWN2ZF85",
-   "name": "LG QNED evo AI MiniLED 55 Pollici, Serie QNED86B 2026 Smart TV 4K",
-   "price": 633.98,
-   "list_price": 999.0,
-   "discount": 37,
-   "cat": "tv",
-   "cat_label": "📺 TV",
-   "tag": "",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/81dt9vih1JL._AC_UL320_.jpg",
-   "link": "https://www.amazon.it/dp/B0GWN2ZF85?tag=offerteloraes-21",
-   "ts": "2026-11-06T21:56+01:00",
-   "channel": "tv"
-  },
-  {
-   "asin": "B0GQHGGWHX",
-   "name": "TCL 55V6D – Smart TV 4K HDR10+ da 55\" con Fire TV e Dolby Atmos",
-   "price": 329.0,
-   "list_price": 499.0,
-   "discount": 34,
-   "cat": "tv",
-   "cat_label": "📺 TV",
-   "tag": "",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71IkxLA7YgL._AC_UL320_.jpg",
-   "link": "https://www.amazon.it/dp/B0GQHGGWHX?tag=offerteloraes-21",
-   "ts": "2026-11-06T21:56+01:00",
-   "channel": "tv"
-  },
-  {
-   "asin": "B0GZL9TNZV",
-   "name": "Samsung Smart TV 55\" UE55U8090HUXZT Crystal UHD, Crystal 4K Processor",
-   "price": 399.0,
-   "list_price": 549.0,
-   "discount": 27,
-   "cat": "tv",
-   "cat_label": "📺 TV",
-   "tag": "",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71keWaQRErL._AC_UL320_.jpg",
-   "link": "https://www.amazon.it/dp/B0GZL9TNZV?tag=offerteloraes-21",
-   "ts": "2026-11-06T21:56+01:00",
-   "channel": "tv"
-  },
-  {
-   "asin": "B0FSL7464N",
-   "name": "Haier Smart TV 55\" QLED 4K UHD, S81 Series, Google TV, Gaming 120Hz",
-   "price": 379.99,
-   "list_price": 479.0,
-   "discount": 21,
-   "cat": "tv",
-   "cat_label": "📺 TV",
-   "tag": "",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71Som7s+cOL._AC_UL320_.jpg",
-   "link": "https://www.amazon.it/dp/B0FSL7464N?tag=offerteloraes-21",
-   "ts": "2026-11-06T21:56+01:00",
-   "channel": "tv"
   }
  ]
 }
