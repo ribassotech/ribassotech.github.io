@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T22:00+01:00",
+ "updated": "2026-11-08T11:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -91,23 +91,6 @@
    "image": "https://m.media-amazon.com/images/I/51P37HmwbIL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B0BM42X58C?tag=offerteloraes-21",
    "ts": "2026-11-07T11:04+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0CFFFWRH7",
-   "name": "GNCC GT1Pro Telecamera WiFi Esterno 2K Fissa, Videocamera Sorveglianza IP65",
-   "price": 20.17,
-   "list_price": 32.99,
-   "discount": 39,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "telecamera",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71bDiJf+2rL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0CFFFWRH7?tag=offerteloraes-21",
-   "ts": "2026-11-07T10:32+01:00",
    "channel": "tech"
   }
  ]
