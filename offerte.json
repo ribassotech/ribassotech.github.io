@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:00+01:00",
+ "updated": "2026-11-10T12:32+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0B2PXGM56",
+   "name": "Tapo P105 - Presa Smart Italiana, WiFi Intelligente Smart Plug, Controllo Vocale",
+   "price": 9.99,
+   "list_price": 15.99,
+   "discount": 38,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "presasmart",
+   "deal": "low",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51GtewKUwyL._AC_SL1000_.jpg",
+   "link": "https://www.amazon.it/dp/B0B2PXGM56?tag=offerteloraes-21",
+   "ts": "2026-11-10T12:32+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0HN28GRQ7",
    "name": "Cuffie Bluetooth,Auricolari Bluetooth 6.1 - Cuffie Wireless con 6 ENC Cancellazione",
