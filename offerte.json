@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T09:00+01:00",
+ "updated": "2026-11-11T11:02+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -278,23 +278,6 @@
    "image": "https://m.media-amazon.com/images/I/51GtewKUwyL._AC_SL1000_.jpg",
    "link": "https://www.amazon.it/dp/B0B2PXGM56?tag=offerteloraes-21",
    "ts": "2026-11-10T12:32+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0HN28GRQ7",
-   "name": "Cuffie Bluetooth,Auricolari Bluetooth 6.1 - Cuffie Wireless con 6 ENC Cancellazione",
-   "price": 21.65,
-   "list_price": 102.99,
-   "discount": 79,
-   "cat": "audio",
-   "cat_label": "🎧 Audio",
-   "tag": "cuffie",
-   "deal": "tempo",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/7198HyDKnfL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0HN28GRQ7?tag=offerteloraes-21",
-   "ts": "2026-11-10T10:32+01:00",
    "channel": "tech"
   }
  ]
