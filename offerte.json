@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T13:51+01:00",
+ "updated": "2026-11-11T14:33+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0HJC4Y86N",
+   "name": "2026 Smartwatch Uomo,1000 mAh Batteria,1.53\" HD AMOLED Orologio Smartwatch",
+   "price": 35.99,
+   "list_price": 139.99,
+   "discount": 74,
+   "cat": "wearable",
+   "cat_label": "⌚ Smartwatch",
+   "tag": "",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71cXncN0hCL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0HJC4Y86N?tag=offerteloraes-21",
+   "ts": "2026-11-11T14:33+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B09LPXJ3RX",
    "name": "Anker 333 Cavo USB C a USB C 100W 1,8m per MacBook, iPad e Samsung",
@@ -278,23 +295,6 @@
    "image": "https://m.media-amazon.com/images/I/71OF6KK7ikL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B09M8ZSM4W?tag=offerteloraes-21",
    "ts": "2026-11-10T18:06+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0GTM8C5CZ",
-   "name": "SwitchBot Videocitofono WiFi con Pannello Solare, Citofono Senza Fili da Esterno con",
-   "price": 119.99,
-   "list_price": 169.99,
-   "discount": 29,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "videocitofono",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71vhDJJEF7L._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0GTM8C5CZ?tag=offerteloraes-21",
-   "ts": "2026-11-10T14:32+01:00",
    "channel": "tech"
   }
  ]
