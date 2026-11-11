@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T20:02+01:00",
+ "updated": "2026-11-11T20:23+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0FDWB9M4C",
+   "name": "Levoit Purificatore d'Aria Smart per Allergie, CADR 258m³/h, 54㎡",
+   "price": 139.99,
+   "list_price": 159.99,
+   "discount": 13,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "purificatore",
+   "deal": "min",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71J7D66Ki4L._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0FDWB9M4C?tag=offerteloraes-21",
+   "ts": "2026-11-11T20:23+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0GR1FT1ZX",
    "name": "Apple MacBook Air 15'' con chip M5: progettato per l’AI, display",
