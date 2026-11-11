@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T19:00+01:00",
+ "updated": "2026-11-11T20:02+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0GR1FT1ZX",
+   "name": "Apple MacBook Air 15'' con chip M5: progettato per l’AI, display",
+   "price": 1713.0,
+   "list_price": null,
+   "discount": 25,
+   "cat": "pc",
+   "cat_label": "💻 PC e notebook",
+   "tag": "macbook",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/7128fVMxWmL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0GR1FT1ZX?tag=offerteloraes-21",
+   "ts": "2026-11-11T20:02+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0HJC4Y86N",
    "name": "2026 Smartwatch Uomo,1000 mAh Batteria,1.53\" HD AMOLED Orologio Smartwatch",
