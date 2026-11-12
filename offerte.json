@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T13:00+01:00",
+ "updated": "2026-11-12T13:16+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0FWKDJFM4",
+   "name": "Motorola edge 60 neo con Moto AI (8/256GB, Tripla camera",
+   "price": 279.0,
+   "list_price": 399.0,
+   "discount": 30,
+   "cat": "smartphone",
+   "cat_label": "📱 Smartphone",
+   "tag": "",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/81fkfSr98LL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0FWKDJFM4?tag=offerteloraes-21",
+   "ts": "2026-11-12T13:16+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0H62RSWBK",
    "name": "Google Pixel 11 Pro XL – Smartphone Android sbloccato - Nero, 256GB",
