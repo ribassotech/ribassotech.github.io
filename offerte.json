@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T15:00+01:00",
+ "updated": "2026-11-12T18:32+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0HHRKQD7V",
+   "name": "NIAKUN 15.6 Computer portatile i5 6200U 16 GB RAM 512 GB SSD",
+   "price": 549.99,
+   "list_price": 1999.99,
+   "discount": 73,
+   "cat": "pc",
+   "cat_label": "💻 PC e notebook",
+   "tag": "notebook",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": "100,00€",
+   "image": "https://m.media-amazon.com/images/I/71RDG6G6AcL._AC_SL1254_.jpg",
+   "link": "https://www.amazon.it/dp/B0HHRKQD7V?tag=offerteloraes-21",
+   "ts": "2026-11-12T18:32+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0DH89G84R",
    "name": "Cecotec Macchina da Caffè Espresso Barista Baristeo Intima. 1450W",
