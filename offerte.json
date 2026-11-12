@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T07:24+01:00",
+ "updated": "2026-11-12T10:32+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0H62RSWBK",
+   "name": "Google Pixel 11 Pro XL – Smartphone Android sbloccato - Nero, 256GB",
+   "price": 999.0,
+   "list_price": 1399.0,
+   "discount": 29,
+   "cat": "smartphone",
+   "cat_label": "📱 Smartphone",
+   "tag": "pixel",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/81wSJQyaLGL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0H62RSWBK?tag=offerteloraes-21",
+   "ts": "2026-11-12T10:32+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0GCGVJD71",
    "name": "ECOVACS T90 PRO OMNI Robot Aspirapolvere Lavapavimenti OZMO ROLLER",
