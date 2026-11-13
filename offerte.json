@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T18:33+01:00",
+ "updated": "2026-11-13T21:53+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,74 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B09MM39P84",
+   "name": "Tapo L530E Lampadina Smart WiFi E27 Multicolore 806lm 9W Alexa Google, 4pz",
+   "price": 27.99,
+   "list_price": 36.99,
+   "discount": 24,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "luci",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51r0m5F+PaL._AC_UL320_.jpg",
+   "link": "https://www.amazon.it/dp/B09MM39P84?tag=offerteloraes-21",
+   "ts": "2026-11-13T21:53+01:00",
+   "channel": "tech"
+  },
+  {
+   "asin": "B0D8QQ2LY5",
+   "name": "Ninja Detect Power Processor Pro, Frullatore Robot da Cucina Multifunzione",
+   "price": 179.99,
+   "list_price": 279.99,
+   "discount": 36,
+   "cat": "cucina",
+   "cat_label": "🍳 Elettrodomestici cucina",
+   "tag": "frullatore",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71SpHctDs7L._AC_UL320_.jpg",
+   "link": "https://www.amazon.it/dp/B0D8QQ2LY5?tag=offerteloraes-21",
+   "ts": "2026-11-13T21:53+01:00",
+   "channel": "tech"
+  },
+  {
+   "asin": "B07GRQSHNJ",
+   "name": "Bosch MC812W501 Robot da Cucina Compatto, 1000 W, Ciotola da 3.9L, Bianco",
+   "price": 153.33,
+   "list_price": 239.9,
+   "discount": 36,
+   "cat": "cucina",
+   "cat_label": "🍳 Elettrodomestici cucina",
+   "tag": "robotcucina",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71f0nhh7lNL._AC_UL320_.jpg",
+   "link": "https://www.amazon.it/dp/B07GRQSHNJ?tag=offerteloraes-21",
+   "ts": "2026-11-13T21:53+01:00",
+   "channel": "tech"
+  },
+  {
+   "asin": "B075XN9MRG",
+   "name": "Kenwood Multipro Compact FDM301SS Robot da cucina con 2 velocità di",
+   "price": 111.04,
+   "list_price": 141.68,
+   "discount": 22,
+   "cat": "cucina",
+   "cat_label": "🍳 Elettrodomestici cucina",
+   "tag": "robotcucina",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/81+SrWqzjzL._AC_UL320_.jpg",
+   "link": "https://www.amazon.it/dp/B075XN9MRG?tag=offerteloraes-21",
+   "ts": "2026-11-13T21:53+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0D23VW9VB",
    "name": "Ring Videocamera esterna Plus plug-in (Outdoor Camera Plus Ultimo",
