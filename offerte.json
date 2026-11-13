@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T11:20+01:00",
+ "updated": "2026-11-13T12:32+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0B6CHGK25",
+   "name": "Tapo L610 Lampadina Smart WiFi GU10 Luce Calda 2700K 350lm 3.5W Alexa",
+   "price": 7.99,
+   "list_price": 14.99,
+   "discount": 47,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "luci",
+   "deal": "low",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/515oOxvtSdL._AC_SL1000_.jpg",
+   "link": "https://www.amazon.it/dp/B0B6CHGK25?tag=offerteloraes-21",
+   "ts": "2026-11-13T12:32+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B07KXQX3S3",
    "name": "SanDisk 128 Go microSDXC Scheda per Nintendo Switch, Scheda di memoria con Licenza",
