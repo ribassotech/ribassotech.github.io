@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:56+01:00",
+ "updated": "2026-11-14T07:24+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0GQVH8NMS",
+   "name": "Lenovo Chromebook 14\" Notebook IPS WUXGA (1920x1200), 64GB SSD, 4GB RAM, Wi-Fi6E",
+   "price": 199.9,
+   "list_price": 299.0,
+   "discount": 33,
+   "cat": "pc",
+   "cat_label": "💻 PC e notebook",
+   "tag": "chromebook",
+   "deal": "min",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71Qc1AzHxFL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0GQVH8NMS?tag=offerteloraes-21",
+   "ts": "2026-11-14T07:24+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0GWN2ZF85",
    "name": "LG QNED evo AI MiniLED 55 Pollici, Serie QNED86B 2026 Smart TV 4K",
