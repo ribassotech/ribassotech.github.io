@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T19:00+01:00",
+ "updated": "2026-11-14T20:11+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0DRCWH9KH",
+   "name": "XIAOMI Redmi Note 14 Smartphone, 8GB RAM 256GB, Schermo 6.67\" AMOLED",
+   "price": 185.98,
+   "list_price": 229.0,
+   "discount": 19,
+   "cat": "smartphone",
+   "cat_label": "📱 Smartphone",
+   "tag": "xiaomi",
+   "deal": "min",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/81T7bJ+AFoL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0DRCWH9KH?tag=offerteloraes-21",
+   "ts": "2026-11-14T20:11+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0HP1CQDQS",
    "name": "Cuffie Auricolari Bluetooth 6.1 Sport, HiFi Stereo In Ear Stereo con 4 Microfono ENC, 120",
