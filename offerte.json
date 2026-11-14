@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:03+01:00",
+ "updated": "2026-11-14T12:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -397,23 +397,6 @@
    "image": "https://m.media-amazon.com/images/I/515oOxvtSdL._AC_SL1000_.jpg",
    "link": "https://www.amazon.it/dp/B0B6CHGK25?tag=offerteloraes-21",
    "ts": "2026-11-13T12:32+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B07KXQX3S3",
-   "name": "SanDisk 128 Go microSDXC Scheda per Nintendo Switch, Scheda di memoria con Licenza",
-   "price": 44.89,
-   "list_price": null,
-   "discount": null,
-   "cat": "storage",
-   "cat_label": "🧩 SSD e memorie",
-   "tag": "microsd",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/810o-i5jpiL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B07KXQX3S3?tag=offerteloraes-21",
-   "ts": "2026-11-13T11:20+01:00",
    "channel": "tech"
   }
  ]
