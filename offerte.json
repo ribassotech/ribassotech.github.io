@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T14:33+01:00",
+ "updated": "2026-11-14T18:33+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0HP1CQDQS",
+   "name": "Cuffie Auricolari Bluetooth 6.1 Sport, HiFi Stereo In Ear Stereo con 4 Microfono ENC, 120",
+   "price": 28.49,
+   "list_price": 129.99,
+   "discount": 78,
+   "cat": "audio",
+   "cat_label": "🎧 Audio",
+   "tag": "cuffie",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/81U5aG7vCrL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0HP1CQDQS?tag=offerteloraes-21",
+   "ts": "2026-11-14T18:33+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0FC2LC44J",
    "name": "roborock H60 Hub Aspirapolvere Senza Fili con Base di Auto-Svuotamento",
