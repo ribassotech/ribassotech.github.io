@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:00+01:00",
+ "updated": "2026-11-14T13:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -380,23 +380,6 @@
    "image": "https://m.media-amazon.com/images/I/61M9fkZPdlL._SL1000_.jpg",
    "link": "https://www.amazon.it/dp/B0D23VW9VB?tag=offerteloraes-21",
    "ts": "2026-11-13T18:33+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0B6CHGK25",
-   "name": "Tapo L610 Lampadina Smart WiFi GU10 Luce Calda 2700K 350lm 3.5W Alexa",
-   "price": 7.99,
-   "list_price": 14.99,
-   "discount": 47,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "luci",
-   "deal": "low",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/515oOxvtSdL._AC_SL1000_.jpg",
-   "link": "https://www.amazon.it/dp/B0B6CHGK25?tag=offerteloraes-21",
-   "ts": "2026-11-13T12:32+01:00",
    "channel": "tech"
   }
  ]
