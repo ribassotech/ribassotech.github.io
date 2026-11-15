@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T14:32+01:00",
+ "updated": "2026-11-15T15:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -465,23 +465,6 @@
    "image": "https://m.media-amazon.com/images/I/81U5aG7vCrL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B0HP1CQDQS?tag=offerteloraes-21",
    "ts": "2026-11-14T18:33+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0FC2LC44J",
-   "name": "roborock H60 Hub Aspirapolvere Senza Fili con Base di Auto-Svuotamento",
-   "price": 119.0,
-   "list_price": 399.0,
-   "discount": 70,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "aspirapolvere",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61Doc1NF9HL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0FC2LC44J?tag=offerteloraes-21",
-   "ts": "2026-11-14T14:33+01:00",
    "channel": "tech"
   }
  ]
