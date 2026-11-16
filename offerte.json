@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T12:32+01:00",
+ "updated": "2026-11-16T13:54+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B018IN028K",
+   "name": "BTicino 331860 Posto Esterno Aggiuntivo per Kit Videocitofono 2 Fili, Metallo",
+   "price": 99.9,
+   "list_price": 148.99,
+   "discount": 33,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "videocitofono",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/81th4dXB9BL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B018IN028K?tag=offerteloraes-21",
+   "ts": "2026-11-16T13:54+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B08R7RTBV8",
    "name": "HP 280M Mouse Silent Wireless, Tecnologia LED Blu, Riduzione Rumore fino a 90%, 3",
