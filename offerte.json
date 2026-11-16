@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T22:00+01:00",
+ "updated": "2026-11-16T07:29+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -278,23 +278,6 @@
    "image": "https://m.media-amazon.com/images/I/412cJgOMx6L._AC_SY300_SX300_QL70_ML2_.jpg",
    "link": "https://www.amazon.it/dp/B0HKK87766?tag=offerteloraes-21",
    "ts": "2026-11-15T10:33+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0D9GT32H1",
-   "name": "Acer FA200 SSD PCIe 4.0 NVMe 2 TB - Velocità di lettura fino a 7200",
-   "price": 159.99,
-   "list_price": null,
-   "discount": 38,
-   "cat": "storage",
-   "cat_label": "🧩 SSD e memorie",
-   "tag": "ssd",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61J3gBLl4OL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0D9GT32H1?tag=offerteloraes-21",
-   "ts": "2026-11-15T07:05+01:00",
    "channel": "tech"
   }
  ]
