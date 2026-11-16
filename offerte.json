@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T11:02+01:00",
+ "updated": "2026-11-16T12:32+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B08R7RTBV8",
+   "name": "HP 280M Mouse Silent Wireless, Tecnologia LED Blu, Riduzione Rumore fino a 90%, 3",
+   "price": 9.99,
+   "list_price": 23.99,
+   "discount": 58,
+   "cat": "input",
+   "cat_label": "🖱 Mouse e tastiere",
+   "tag": "mouse",
+   "deal": "low",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71Or4-nKwKL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B08R7RTBV8?tag=offerteloraes-21",
+   "ts": "2026-11-16T12:32+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0CGVSLM1C",
    "name": "Google Pixel 8 Pro - Smartphone Android sbloccato con teleobiettivo, batteria con 24 ore",
