@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T13:54+01:00",
+ "updated": "2026-11-16T14:32+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0DHLV4P1B",
+   "name": "Videocamera Blink Outdoor 4 (Ultimo modello) - Videocamera di sicurezza smart HD",
+   "price": 24.99,
+   "list_price": 124.98,
+   "discount": 80,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "",
+   "deal": "min",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61W7jmW5waL._SL1200_.jpg",
+   "link": "https://www.amazon.it/dp/B0DHLV4P1B?tag=offerteloraes-21",
+   "ts": "2026-11-16T14:32+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B018IN028K",
    "name": "BTicino 331860 Posto Esterno Aggiuntivo per Kit Videocitofono 2 Fili, Metallo",
