@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T07:29+01:00",
+ "updated": "2026-11-16T10:33+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0CGVSLM1C",
+   "name": "Google Pixel 8 Pro - Smartphone Android sbloccato con teleobiettivo, batteria con 24 ore",
+   "price": 762.02,
+   "list_price": 1299.0,
+   "discount": 41,
+   "cat": "smartphone",
+   "cat_label": "📱 Smartphone",
+   "tag": "pixel",
+   "deal": "tempo",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71HBgGfmUsL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0CGVSLM1C?tag=offerteloraes-21",
+   "ts": "2026-11-16T10:33+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0GYS4LVH8",
    "name": "Samsung Galaxy A27 5G, 128GB, RAM 6GB, Black [Versione Italiana]",
