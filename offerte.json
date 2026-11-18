@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T14:37+01:00",
+ "updated": "2026-11-18T18:33+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0FKG6TDRR",
+   "name": "CMF Headphone Pro - Cuffie Bluetooth Over-Ear Wireless – Fino a 100h di Batteria, Hi-Res",
+   "price": 49.99,
+   "list_price": 99.0,
+   "discount": 50,
+   "cat": "audio",
+   "cat_label": "🎧 Audio",
+   "tag": "cuffie",
+   "deal": "min",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61PY2aeM3qL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0FKG6TDRR?tag=offerteloraes-21",
+   "ts": "2026-11-18T18:33+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0HBQMMZXM",
    "name": "BMAX Ufficio Mini PC Intel Celeron J3355 con Win11 Home, 6GB RAM 128GB eMMC",
@@ -466,40 +483,6 @@
    "link": "https://www.amazon.it/dp/B0FKT4Q1CM?tag=offerteloraes-21",
    "ts": "2026-11-17T21:54+01:00",
    "channel": "tech"
-  },
-  {
-   "asin": "B0F3DCFBCW",
-   "name": "roborock H60 Hub Ultra Aspirapolvere con Base Auto-Svuotante, 210AW/90Min",
-   "price": 239.0,
-   "list_price": 499.99,
-   "discount": 52,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "aspirapolvere",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71EOB8Yp6DL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0F3DCFBCW?tag=offerteloraes-21",
-   "ts": "2026-11-17T18:32+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0H262LDPL",
-   "name": "ASUS Vivobook 15 F1504MA#B0H262LDPL, Notebook con display 15.6\" IPS, Anti-glare",
-   "price": 379.0,
-   "list_price": 699.0,
-   "discount": 46,
-   "cat": "pc",
-   "cat_label": "💻 PC e notebook",
-   "tag": "notebook",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61mz1TjDaXL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0H262LDPL?tag=offerteloraes-21",
-   "ts": "2026-11-17T18:17+01:00",
-   "channel": "tv"
   }
  ]
 }
