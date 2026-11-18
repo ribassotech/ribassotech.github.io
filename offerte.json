@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:00+01:00",
+ "updated": "2026-11-18T12:31+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0GL7SDG8V",
+   "name": "UGREEN Hub USB C con 4 Porte USB 3.0 Sdoppiatore Adattatore Multiporta 15cm",
+   "price": 8.11,
+   "list_price": 11.99,
+   "discount": 32,
+   "cat": "ricarica",
+   "cat_label": "🔋 Accessori e ricarica",
+   "tag": "hub",
+   "deal": "low",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51BlSBOP64L._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0GL7SDG8V?tag=offerteloraes-21",
+   "ts": "2026-11-18T12:31+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0HQ3QLLRS",
    "name": "2026 Cuffie Bluetooth 5.4, Cuffie in Ear 60 Ore di Riproduzione, Auricolari Bluetooth con",
