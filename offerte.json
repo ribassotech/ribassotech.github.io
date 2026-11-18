@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T10:33+01:00",
+ "updated": "2026-11-18T12:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -449,23 +449,6 @@
    "link": "https://www.amazon.it/dp/B0H262LDPL?tag=offerteloraes-21",
    "ts": "2026-11-17T18:17+01:00",
    "channel": "tv"
-  },
-  {
-   "asin": "B0H293NT46",
-   "name": "Samsung Galaxy Z Fold8, 256GB, Graphite [Versione Italiana]",
-   "price": 1599.0,
-   "list_price": 2099.0,
-   "discount": 24,
-   "cat": "smartphone",
-   "cat_label": "📱 Smartphone",
-   "tag": "",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61ZSxPXzUOL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0H293NT46?tag=offerteloraes-21",
-   "ts": "2026-11-17T11:07+01:00",
-   "channel": "tech"
   }
  ]
 }
