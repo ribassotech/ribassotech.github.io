@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T12:32+01:00",
+ "updated": "2026-11-19T15:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -465,40 +465,6 @@
    "image": "https://m.media-amazon.com/images/I/61PY2aeM3qL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B0FKG6TDRR?tag=offerteloraes-21",
    "ts": "2026-11-18T18:33+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0HBQMMZXM",
-   "name": "BMAX Ufficio Mini PC Intel Celeron J3355 con Win11 Home, 6GB RAM 128GB eMMC",
-   "price": 179.99,
-   "list_price": 239.99,
-   "discount": 25,
-   "cat": "pc",
-   "cat_label": "💻 PC e notebook",
-   "tag": "minipc",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/51708UcnqZL._AC_SL1254_.jpg",
-   "link": "https://www.amazon.it/dp/B0HBQMMZXM?tag=offerteloraes-21",
-   "ts": "2026-11-18T14:37+01:00",
-   "channel": "tv"
-  },
-  {
-   "asin": "B0FTFP5GH3",
-   "name": "Hisense D20CW NUOVO Deumidificatore Classico A Scarico, Portatile, Bassa Rumorosità",
-   "price": 119.0,
-   "list_price": 250.76,
-   "discount": 53,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "deumidificatore",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61wjExUMYxL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0FTFP5GH3?tag=offerteloraes-21",
-   "ts": "2026-11-18T14:33+01:00",
    "channel": "tech"
   }
  ]
