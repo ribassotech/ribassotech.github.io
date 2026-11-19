@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T16:02+01:00",
+ "updated": "2026-11-19T18:33+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B08HLR4BKH",
+   "name": "WiZ Lampadina Smart WiFi, Luce Bianca da Calda a Fredda Dimmerabile, Filament, E27, 7W",
+   "price": 11.49,
+   "list_price": 16.09,
+   "discount": 29,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "luci",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71+waO-JSrL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B08HLR4BKH?tag=offerteloraes-21",
+   "ts": "2026-11-19T18:33+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0HHN5B4L9",
    "name": "AI Smartwatch Uomo Donna, Smart Watch ChatGPT-AI Assistente Vocale, 1.91\"",
