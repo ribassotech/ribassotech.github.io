@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:00+01:00",
+ "updated": "2026-11-20T07:26+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -142,23 +142,6 @@
    "image": "https://m.media-amazon.com/images/I/613xbPUs7tL._SL1000_.jpg",
    "link": "https://www.amazon.it/dp/B0D5YTS7ZD?tag=offerteloraes-21",
    "ts": "2026-11-19T10:32+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0GZTKP4W3",
-   "name": "Cuffie Wireless Bluetooth Over Ear, Cuscinetti Magnetici Rimovibili con 2 Set Extra, Con",
-   "price": 19.72,
-   "list_price": 21.85,
-   "discount": 10,
-   "cat": "audio",
-   "cat_label": "🎧 Audio",
-   "tag": "cuffie",
-   "deal": "min",
-   "prime": true,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71lXhDuZPtL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0GZTKP4W3?tag=offerteloraes-21",
-   "ts": "2026-11-19T07:14+01:00",
    "channel": "tech"
   }
  ]
