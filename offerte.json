@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:33+01:00",
+ "updated": "2026-11-20T17:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -125,23 +125,6 @@
    "image": "https://m.media-amazon.com/images/I/71+waO-JSrL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B08HLR4BKH?tag=offerteloraes-21",
    "ts": "2026-11-19T18:33+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0HHN5B4L9",
-   "name": "AI Smartwatch Uomo Donna, Smart Watch ChatGPT-AI Assistente Vocale, 1.91\"",
-   "price": 25.49,
-   "list_price": 99.99,
-   "discount": 75,
-   "cat": "wearable",
-   "cat_label": "⌚ Smartwatch",
-   "tag": "",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71D3TeK8K0L._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0HHN5B4L9?tag=offerteloraes-21",
-   "ts": "2026-11-19T16:02+01:00",
    "channel": "tech"
   }
  ]
