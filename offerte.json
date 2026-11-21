@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T18:09+01:00",
+ "updated": "2026-11-21T18:32+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0BL898WJZ",
+   "name": "Philips Air Performer 3in1 Purificatore, Ventilatore e Riscaldatore, 70 m²",
+   "price": 349.99,
+   "list_price": 649.99,
+   "discount": 46,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "purificatore",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/71mk3cRsy3L._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0BL898WJZ?tag=offerteloraes-21",
+   "ts": "2026-11-21T18:32+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0DJY61QGG",
    "name": "Midea Friggitrice ad Aria 8 in 1, 2200W, 8.5 L,Cassetto Extra Largo",
