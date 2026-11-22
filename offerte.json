@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:32+01:00",
+ "updated": "2026-11-22T12:44+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0FPLWYB8R",
+   "name": "ELECROW Ricetrasmettitore Meshtastic LoRa con GPS & nRF52840",
+   "price": 79.72,
+   "list_price": 99.99,
+   "discount": 20,
+   "cat": "maker",
+   "cat_label": "🛠 Maker e LoRa",
+   "tag": "meshtastic",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61icMPj-gYL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0FPLWYB8R?tag=offerteloraes-21",
+   "ts": "2026-11-22T12:44+01:00",
+   "channel": "lora"
+  },
   {
    "asin": "B09MQ4KZ27",
    "name": "INIU Cavo USB C a USB C 100W, 2m Cavo USB Type-C PD 5A Ricarica Rapida",
@@ -534,23 +551,6 @@
    "link": "https://www.amazon.it/dp/B0CN41GMDK?tag=offerteloraes-21",
    "ts": "2026-11-21T13:40+01:00",
    "channel": "tv"
-  },
-  {
-   "asin": "B01L3ZO06U",
-   "name": "HP Z3700 Mouse Wireless, Sensore Preciso, Tecnologia LED Blue, 1200 DPI, 3 Pulsanti",
-   "price": 8.19,
-   "list_price": 22.99,
-   "discount": 64,
-   "cat": "input",
-   "cat_label": "🖱 Mouse e tastiere",
-   "tag": "mouse",
-   "deal": "low",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/512DED4ZKoL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B01L3ZO06U?tag=offerteloraes-21",
-   "ts": "2026-11-21T12:43+01:00",
-   "channel": "tech"
   }
  ]
 }
