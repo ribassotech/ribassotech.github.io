@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:32+01:00",
+ "updated": "2026-11-23T18:02+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0B6CKMLQH",
+   "name": "Tapo L630 Lampadina Smart WiFi GU10 RGBW Multicolore 350lm 3.5W Alexa",
+   "price": 9.99,
+   "list_price": 14.99,
+   "discount": 33,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "luci",
+   "deal": "min",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61xgY8HOTfL._AC_SL1000_.jpg",
+   "link": "https://www.amazon.it/dp/B0B6CKMLQH?tag=ribassotech-21",
+   "ts": "2026-11-23T18:02+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0FX4TV61K",
    "name": "Binghe ESP32 Display ESP32 Scheda di Sviluppo con WiFi Bluetooth 2.8 pollici 240 x 320",
