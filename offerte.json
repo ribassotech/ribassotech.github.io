@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:33+01:00",
+ "updated": "2026-11-23T20:28+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -533,23 +533,6 @@
    "image": "https://m.media-amazon.com/images/I/713IK67m2qL._AC_UL320_.jpg",
    "link": "https://www.amazon.it/dp/B0GDDYF7X7?tag=ribassotech-21",
    "ts": "2026-11-22T21:54+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0HRGHHRML",
-   "name": "2026 Cuffie Bluetooth 5.4, Auricolari Bluetooth Stereo HiFi Con 4 ENC Microfoni",
-   "price": 23.99,
-   "list_price": 109.99,
-   "discount": 78,
-   "cat": "audio",
-   "cat_label": "🎧 Audio",
-   "tag": "cuffie",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/716n0PUqBpL._AC_SL1415_.jpg",
-   "link": "https://www.amazon.it/dp/B0HRGHHRML?tag=ribassotech-21",
-   "ts": "2026-11-22T19:55+01:00",
    "channel": "tech"
   }
  ]
