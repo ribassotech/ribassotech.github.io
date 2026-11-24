@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:00+01:00",
+ "updated": "2026-11-24T10:33+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0H4H1TD7F",
+   "name": "REDMI Note 17 Pro 5G, Smartphone 8+512GB, Sky Blue, Batteria da 8340 mAh",
+   "price": 379.0,
+   "list_price": 599.9,
+   "discount": 37,
+   "cat": "smartphone",
+   "cat_label": "📱 Smartphone",
+   "tag": "xiaomi",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61E9FYWXmnL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0H4H1TD7F?tag=ribassotech-21",
+   "ts": "2026-11-24T10:33+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0DFNT93NY",
    "name": "Amazon Ember serie 4 da 43\" con Fire TV (ultimo modello), smart TV 4K UHD",
@@ -500,23 +517,6 @@
    "link": "https://www.amazon.it/dp/B09B94956P?tag=ribassotech-21",
    "ts": "2026-11-23T11:05+01:00",
    "channel": "tv"
-  },
-  {
-   "asin": "B0F386TDXD",
-   "name": "Lefant M2S Pro Robot Aspirapolvere Lavapavimenti con Mappatura, 10000Pa",
-   "price": 179.99,
-   "list_price": 499.99,
-   "discount": 64,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "robotaspirapolvere",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71p30yfn11L._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0F386TDXD?tag=ribassotech-21",
-   "ts": "2026-11-23T10:32+01:00",
-   "channel": "tech"
   }
  ]
 }
