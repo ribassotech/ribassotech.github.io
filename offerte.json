@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:05+01:00",
+ "updated": "2026-11-24T11:32+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0F191DQ58",
+   "name": "868MHz Antenna LoRa 10dBi per Meshtastic LoRa Long Range Soft Whip-Antenne, SMA Maschio",
+   "price": 12.99,
+   "list_price": 17.99,
+   "discount": 28,
+   "cat": "maker",
+   "cat_label": "🛠 Maker e LoRa",
+   "tag": "lora",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51wR4NXZ0ZL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0F191DQ58?tag=ribassotech-21",
+   "ts": "2026-11-24T11:32+01:00",
+   "channel": "lora"
+  },
   {
    "asin": "B0H4HFDDPV",
    "name": "REDMI Note 17, Smartphone 4+128GB, Celestial Purple, Batteria da 7700 mAh",
@@ -517,23 +534,6 @@
    "link": "https://www.amazon.it/dp/B0D9BTQRYT?tag=ribassotech-21",
    "ts": "2026-11-23T11:33+01:00",
    "channel": "lora"
-  },
-  {
-   "asin": "B09B94956P",
-   "name": "Echo Dot (Ultimo modello) | Altoparlante intelligente Wi-Fi e",
-   "price": 34.99,
-   "list_price": 89.99,
-   "discount": 61,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "alexa",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71Yuwlj+YxL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B09B94956P?tag=ribassotech-21",
-   "ts": "2026-11-23T11:05+01:00",
-   "channel": "tv"
   }
  ]
 }
