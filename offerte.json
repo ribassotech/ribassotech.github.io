@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:02+01:00",
+ "updated": "2026-11-25T18:32+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B09JL1VX1C",
+   "name": "Beghelli - Lampadina LED Smart Dom-e E27 14W RGB-CCT WiFi, Compatibile con Alexa, App",
+   "price": 14.0,
+   "list_price": 19.9,
+   "discount": 30,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "luci",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/510jrzpFzjL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B09JL1VX1C?tag=ribassotech-21",
+   "ts": "2026-11-25T18:32+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B09653B5D6",
    "name": "cellularline - SPIN AIR - Supporto smartphone da auto - Compatibile con Bocchette di",
