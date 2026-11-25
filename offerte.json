@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:01+01:00",
+ "updated": "2026-11-25T20:10+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0FN3M9FMC",
+   "name": "OXS S21 Soundbar, 2.1 Canali con Subwoofer, Suono Preciso con Basso",
+   "price": 109.99,
+   "list_price": 159.99,
+   "discount": 31,
+   "cat": "audio",
+   "cat_label": "🎧 Audio",
+   "tag": "soundbar",
+   "deal": null,
+   "prime": true,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51CinzDz9TL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0FN3M9FMC?tag=ribassotech-21",
+   "ts": "2026-11-25T20:10+01:00",
+   "channel": "tv"
+  },
   {
    "asin": "B0H37LKT3Y",
    "name": "LG Monitor 27U411B 27\" IPS Full HD 144Hz per lavoro, studio e gaming",
@@ -466,23 +483,6 @@
    "link": "https://www.amazon.it/dp/B0C2ZBD1KQ?tag=ribassotech-21",
    "ts": "2026-11-24T21:53+01:00",
    "channel": "tech"
-  },
-  {
-   "asin": "B0HBQMMZXM",
-   "name": "BMAX Ufficio Mini PC Intel Celeron J3355 con Win11 Home, 6GB RAM 128GB eMMC",
-   "price": 169.99,
-   "list_price": 239.99,
-   "discount": 29,
-   "cat": "pc",
-   "cat_label": "💻 PC e notebook",
-   "tag": "minipc",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/51708UcnqZL._AC_SL1254_.jpg",
-   "link": "https://www.amazon.it/dp/B0HBQMMZXM?tag=ribassotech-21",
-   "ts": "2026-11-24T19:02+01:00",
-   "channel": "tv"
   }
  ]
 }
