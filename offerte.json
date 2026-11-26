@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:00+01:00",
+ "updated": "2026-11-26T20:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -516,23 +516,6 @@
    "image": "https://m.media-amazon.com/images/I/51CinzDz9TL._AC_SL1500_.jpg",
    "link": "https://www.amazon.it/dp/B0FN3M9FMC?tag=ribassotech-21",
    "ts": "2026-11-25T20:10+01:00",
-   "channel": "tv"
-  },
-  {
-   "asin": "B0H37LKT3Y",
-   "name": "LG Monitor 27U411B 27\" IPS Full HD 144Hz per lavoro, studio e gaming",
-   "price": 84.0,
-   "list_price": 109.99,
-   "discount": 24,
-   "cat": "monitor",
-   "cat_label": "🖥 Monitor",
-   "tag": "",
-   "deal": "min",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71eigG2D3CL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0H37LKT3Y?tag=ribassotech-21",
-   "ts": "2026-11-25T19:01+01:00",
    "channel": "tv"
   }
  ]
