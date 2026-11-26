@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:12+01:00",
+ "updated": "2026-11-26T18:32+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0CXJ9X9PC",
+   "name": "Electrolux 700 Friggitrice ad Aria, 5 L, 1500 W, EAF5B, Nero",
+   "price": 79.99,
+   "list_price": 189.99,
+   "discount": 58,
+   "cat": "cucina",
+   "cat_label": "🍳 Elettrodomestici cucina",
+   "tag": "friggitrice",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/510ReNtMdVL._AC_SL1000_.jpg",
+   "link": "https://www.amazon.it/dp/B0CXJ9X9PC?tag=ribassotech-21",
+   "ts": "2026-11-26T18:32+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0DMNRGPB5",
    "name": "UGREEN Zapix Caricatore USB C 45W PPS GaN Rapido Caricabatterie con PD 3.0",
