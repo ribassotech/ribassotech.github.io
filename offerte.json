@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:00+01:00",
+ "updated": "2026-11-26T21:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -500,23 +500,6 @@
    "link": "https://www.amazon.it/dp/B0G4NC8KN7?tag=ribassotech-21",
    "ts": "2026-11-25T21:53+01:00",
    "channel": "tech"
-  },
-  {
-   "asin": "B0FN3M9FMC",
-   "name": "OXS S21 Soundbar, 2.1 Canali con Subwoofer, Suono Preciso con Basso",
-   "price": 109.99,
-   "list_price": 159.99,
-   "discount": 31,
-   "cat": "audio",
-   "cat_label": "🎧 Audio",
-   "tag": "soundbar",
-   "deal": null,
-   "prime": true,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/51CinzDz9TL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0FN3M9FMC?tag=ribassotech-21",
-   "ts": "2026-11-25T20:10+01:00",
-   "channel": "tv"
   }
  ]
 }
