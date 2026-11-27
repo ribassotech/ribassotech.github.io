@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:32+01:00",
+ "updated": "2026-11-27T19:00+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -465,23 +465,6 @@
    "image": "https://m.media-amazon.com/images/I/61mLAGzBnXL._AC_UL320_.jpg",
    "link": "https://www.amazon.it/dp/B0DMZWD4JP?tag=ribassotech-21",
    "ts": "2026-11-26T21:52+01:00",
-   "channel": "tech"
-  },
-  {
-   "asin": "B0CXJ9X9PC",
-   "name": "Electrolux 700 Friggitrice ad Aria, 5 L, 1500 W, EAF5B, Nero",
-   "price": 79.99,
-   "list_price": 189.99,
-   "discount": 58,
-   "cat": "cucina",
-   "cat_label": "🍳 Elettrodomestici cucina",
-   "tag": "friggitrice",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/510ReNtMdVL._AC_SL1000_.jpg",
-   "link": "https://www.amazon.it/dp/B0CXJ9X9PC?tag=ribassotech-21",
-   "ts": "2026-11-26T18:32+01:00",
    "channel": "tech"
   }
  ]
