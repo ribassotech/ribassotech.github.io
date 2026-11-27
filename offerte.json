@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:33+01:00",
+ "updated": "2026-11-27T11:16+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0DWKBMSWG",
+   "name": "roborock Q10 S5+ Set Robot Aspirapolvere 10.000Pa, Panno Sollevabile, Nero",
+   "price": 199.0,
+   "list_price": 439.99,
+   "discount": 55,
+   "cat": "casa",
+   "cat_label": "🏠 Casa smart",
+   "tag": "robotaspirapolvere",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61YKEp2EjrL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0DWKBMSWG?tag=ribassotech-21",
+   "ts": "2026-11-27T11:16+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0CHYNYX59",
    "name": "Cuffie Bluetooth 5.4 Sport, 60 Ore Cuffie In Ear con Cancellazione Rumore ENC e 4 HD",
