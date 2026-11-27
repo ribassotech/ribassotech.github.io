@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:00+01:00",
+ "updated": "2026-11-27T10:33+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0CHYNYX59",
+   "name": "Cuffie Bluetooth 5.4 Sport, 60 Ore Cuffie In Ear con Cancellazione Rumore ENC e 4 HD",
+   "price": 26.99,
+   "list_price": 129.99,
+   "discount": 79,
+   "cat": "audio",
+   "cat_label": "🎧 Audio",
+   "tag": "cuffie",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/711Ij4FjMnL._AC_SL1226_.jpg",
+   "link": "https://www.amazon.it/dp/B0CHYNYX59?tag=ribassotech-21",
+   "ts": "2026-11-27T10:33+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0GR7DTKP8",
    "name": "Hisense 55E7S PRO Smart TV 55\" QLED Ultra HD 4K 144Hz HDR Dolby Vision IQ",
@@ -432,23 +449,6 @@
    "link": "https://www.amazon.it/dp/B0DPPRCX97?tag=ribassotech-21",
    "ts": "2026-11-26T11:32+01:00",
    "channel": "lora"
-  },
-  {
-   "asin": "B0GMS4VYVT",
-   "name": "Samsung Scheda di Memoria MicroSD T7 da 256 GB, Scheda di Memoria per Smartphone, Tablet",
-   "price": 70.75,
-   "list_price": 109.99,
-   "discount": 36,
-   "cat": "storage",
-   "cat_label": "🧩 SSD e memorie",
-   "tag": "microsd",
-   "deal": "min",
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/71bx4PmC+hL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0GMS4VYVT?tag=ribassotech-21",
-   "ts": "2026-11-26T10:32+01:00",
-   "channel": "tech"
   }
  ]
 }
