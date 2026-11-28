@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T18:03+01:00",
+ "updated": "2026-11-28T18:32+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0HGM1D4JH",
+   "name": "Ufesa TotalChef RK15 Combo Robot da Cucina con Friggitrice ad Aria 2 in 1, 2400 W",
+   "price": 490.07,
+   "list_price": 929.08,
+   "discount": 47,
+   "cat": "cucina",
+   "cat_label": "🍳 Elettrodomestici cucina",
+   "tag": "robotcucina",
+   "deal": null,
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/61U5RAAPDlL._AC_SL1254_.jpg",
+   "link": "https://www.amazon.it/dp/B0HGM1D4JH?tag=ribassotech-21",
+   "ts": "2026-11-28T18:32+01:00",
+   "channel": "tech"
+  },
   {
    "asin": "B0GD65L1MR",
    "name": "868MHz Antenna LoRa 10dBi per Meshtastic LoRa Long Range Soft",
