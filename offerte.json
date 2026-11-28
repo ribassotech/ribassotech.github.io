@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T15:00+01:00",
+ "updated": "2026-11-28T17:33+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B0GD65L1MR",
+   "name": "868MHz Antenna LoRa 10dBi per Meshtastic LoRa Long Range Soft",
+   "price": 8.99,
+   "list_price": 10.99,
+   "discount": 18,
+   "cat": "maker",
+   "cat_label": "🛠 Maker e LoRa",
+   "tag": "lora",
+   "deal": "min",
+   "prime": false,
+   "coupon": null,
+   "image": "https://m.media-amazon.com/images/I/51atzzTtBfL._AC_SL1500_.jpg",
+   "link": "https://www.amazon.it/dp/B0GD65L1MR?tag=ribassotech-21",
+   "ts": "2026-11-28T17:33+01:00",
+   "channel": "lora"
+  },
   {
    "asin": "B0G6ZSPW57",
    "name": "Samsung Galaxy S26 Ultra, 256GB, Black [Versione italiana]",
