@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:01+01:00",
+ "updated": "2026-11-28T11:32+01:00",
  "categories": [
   {
    "key": "smartphone",
@@ -59,6 +59,23 @@
   }
  ],
  "offers": [
+  {
+   "asin": "B09J112YR7",
+   "name": "LILYGO T-Display-S3 ESP32-S3 1.9 pollici ST7789 Display LCD TTGO",
+   "price": 18.0,
+   "list_price": 24.0,
+   "discount": 25,
+   "cat": "maker",
+   "cat_label": "🛠 Maker e LoRa",
+   "tag": "lora",
+   "deal": "min",
+   "prime": false,
+   "coupon": "6%",
+   "image": "https://m.media-amazon.com/images/I/41hU2VpDDuL._AC_SL1000_.jpg",
+   "link": "https://www.amazon.it/dp/B09J112YR7?tag=ribassotech-21",
+   "ts": "2026-11-28T11:32+01:00",
+   "channel": "lora"
+  },
   {
    "asin": "B0HNW6CXC9",
    "name": "Amazon Echo Dot (modello 2022), Antracite + Videocamera Mini 2K+ Blink, 2 videocamere",
@@ -500,23 +517,6 @@
    "link": "https://www.amazon.it/dp/B0FPLWZPY1?tag=ribassotech-21",
    "ts": "2026-11-27T11:33+01:00",
    "channel": "lora"
-  },
-  {
-   "asin": "B0DWKBMSWG",
-   "name": "roborock Q10 S5+ Set Robot Aspirapolvere 10.000Pa, Panno Sollevabile, Nero",
-   "price": 199.0,
-   "list_price": 439.99,
-   "discount": 55,
-   "cat": "casa",
-   "cat_label": "🏠 Casa smart",
-   "tag": "robotaspirapolvere",
-   "deal": null,
-   "prime": false,
-   "coupon": null,
-   "image": "https://m.media-amazon.com/images/I/61YKEp2EjrL._AC_SL1500_.jpg",
-   "link": "https://www.amazon.it/dp/B0DWKBMSWG?tag=ribassotech-21",
-   "ts": "2026-11-27T11:16+01:00",
-   "channel": "tech"
   }
  ]
 }
